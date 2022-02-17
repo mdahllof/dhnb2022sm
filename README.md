@@ -1,6 +1,6 @@
 # Supplementary Materials for the article "Quotation and Narration in Contemporary Popular Fiction in Swedish – Stylometric Explorations"
 
-**Mats Dahllöf, Uppsala University, 2022-02-15**
+**Mats Dahllöf, Uppsala University, 2022-02-15 (expect updates)**
 
 `dhnbcorp.csv`: A csv listing of the works in the corpus along with some metadata.
 
