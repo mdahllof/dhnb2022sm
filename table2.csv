@@ -1,0 +1,29 @@
+feat,featexp,liinset,spearman
+VERB,VERB (full lexical verb),48.22,0.321
+AUX,AUX(iliary verb),100.00,0.256
+NN,NN (noun),0.00,0.645
+PROPN,PROPN (proper noun),11.11,0.344
+JJ,JJ (adjective),1.11,0.495
+RG,RG (cardinal numeral),27.78,0.688
+RO,RO (ordinal numeral),12.89,0.484
+PP,PP (preposition),0.00,0.510
+ADV,ADV(erb),85.56,0.632
+CCONJ,CCONJ (coordinating conjunction),40.67,0.439
+SCONJ,SCONJ (subordinating conjunction),89.56,0.429
+INTJ,INTJ (interjection),100.00,0.454
+p1,p1 (first person pronoun),86.67,0.193
+p2,p2 (second person pronoun),100.00,0.217
+p3,p3 (third person pronoun),0.67,0.288
+neg,neg(ation),99.11,0.535
+VBPRT,VBPRT (preterite),18.89,0.099
+VBPRS,VBPRS (present),77.56,0.077
+VBSUP,VBSUP (supine),8.89,0.436
+VBIMP,VBIMP (imperative),100.00,0.317
+VBINF,VBINF (infinitive),64.67,0.469
+VBSFO,VBSFO (s-form),3.78,0.564
+NNIND,NNIND (indefinite),99.78,0.582
+NNDEF,NNDEF (definite),0.22,0.578
+NNSIN,NNSIN (singular),52.89,0.580
+NNPLU,NNPLU (plural),34.00,0.602
+JJSUV,JJSUV (superlative),55.33,0.439
+JJKOM,JJKOM (comparative),34.22,0.463

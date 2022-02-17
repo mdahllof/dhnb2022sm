@@ -1,0 +1,817 @@
+isbn,isbn_firstep,title,all_authors,season,episode,publisher,publication_date,length
+9789178151301,9789178151301,1986 - S1E1,Jesper Ersgård,1,1,Storytel Original,2018-08-21,1.0289901000000001
+9789178151318,9789178151301,1986 - S1E2,Jesper Ersgård,1,2,Storytel Original,2018-08-21,0.96772310000000006
+9789178151325,9789178151301,1986 - S1E3,Jesper Ersgård,1,3,Storytel Original,2018-08-21,0.92132960000000008
+9789178151332,9789178151301,1986 - S1E4,Jesper Ersgård,1,4,Storytel Original,2018-08-21,0.9030086
+9789178151349,9789178151301,1986 - S1E5,Jesper Ersgård,1,5,Storytel Original,2018-08-21,0.9143164
+9789178151356,9789178151301,1986 - S1E6,Jesper Ersgård,1,6,Storytel Original,2018-08-21,0.8887064
+9789178151363,9789178151301,1986 - S1E7,Jesper Ersgård,1,7,Storytel Original,2018-08-21,0.9319479
+9789178151370,9789178151301,1986 - S1E8,Jesper Ersgård,1,8,Storytel Original,2018-08-21,0.89759110000000009
+9789178151387,9789178151301,1986 - S1E9,Jesper Ersgård,1,9,Storytel Original,2018-08-21,0.908564
+9789178151394,9789178151301,1986 - S1E10,Jesper Ersgård,1,10,Storytel Original,2018-08-21,0.9414827
+9789178691401,9789178691401,1986 - S2E1,Jesper Ersgård,2,1,Storytel Original,2019-06-19,0.97737610000000008
+9789178691418,9789178691401,1986 - S2E2,Jesper Ersgård,2,2,Storytel Original,2019-06-19,0.9533815000000001
+9789178691425,9789178691401,1986 - S2E3,Jesper Ersgård,2,3,Storytel Original,2019-06-19,0.92172360000000009
+9789178691432,9789178691401,1986 - S2E4,Jesper Ersgård,2,4,Storytel Original,2019-06-19,0.9340952
+9789178691449,9789178691401,1986 - S2E5,Jesper Ersgård,2,5,Storytel Original,2019-06-19,0.9159909
+9789178691456,9789178691401,1986 - S2E6,Jesper Ersgård,2,6,Storytel Original,2019-06-19,0.95974460000000006
+9789178691463,9789178691401,1986 - S2E7,Jesper Ersgård,2,7,Storytel Original,2019-06-19,0.9684323
+9789178691470,9789178691401,1986 - S2E8,Jesper Ersgård,2,8,Storytel Original,2019-06-19,0.9648666
+9789178691487,9789178691401,1986 - S2E9,Jesper Ersgård,2,9,Storytel Original,2019-06-19,0.98915670000000011
+9789178691494,9789178691401,1986 - S2E10,Jesper Ersgård,2,10,Storytel Original,2019-06-19,0.996426
+9789179076702,9789179076702,1986 - S3E1,Jesper Ersgård,3,1,Storytel Original,2020-06-24,0.8710158
+9789179076719,9789179076702,1986 - S3E2,Jesper Ersgård,3,2,Storytel Original,2020-06-24,0.86305700000000007
+9789179076726,9789179076702,1986 - S3E3,Jesper Ersgård,3,3,Storytel Original,2020-06-24,0.83352670000000006
+9789179076733,9789179076702,1986 - S3E4,Jesper Ersgård,3,4,Storytel Original,2020-06-24,0.88342680000000007
+9789179076740,9789179076702,1986 - S3E5,Jesper Ersgård,3,5,Storytel Original,2020-06-24,0.84818350000000009
+9789179076757,9789179076702,1986 - S3E6,Jesper Ersgård,3,6,Storytel Original,2020-06-24,0.87257210000000007
+9789179076764,9789179076702,1986 - S3E7,Jesper Ersgård,3,7,Storytel Original,2020-06-24,0.82401160000000007
+9789179076771,9789179076702,1986 - S3E8,Jesper Ersgård,3,8,Storytel Original,2020-06-24,0.8106944
+9789179076788,9789179076702,1986 - S3E9,Jesper Ersgård,3,9,Storytel Original,2020-06-24,0.9024373
+9789179076795,9789179076702,1986 - S3E10,Jesper Ersgård,3,10,Storytel Original,2020-06-24,0.9530072
+9789178914203,9789178914203,42 kilo kärlek - Del 1,Felicia Welander,1,1,Storytel Original,2020-04-15,1.024597
+9789178914210,9789178914203,42 kilo kärlek - Del 2,Felicia Welander,1,2,Storytel Original,2020-04-15,1.0484734
+9789178914227,9789178914203,42 kilo kärlek - Del 3,Felicia Welander,1,3,Storytel Original,2020-04-15,0.93852770000000008
+9789178914234,9789178914203,42 kilo kärlek - Del 4,Felicia Welander,1,4,Storytel Original,2020-04-15,0.96707300000000007
+9789178914241,9789178914203,42 kilo kärlek - Del 5,Felicia Welander,1,5,Storytel Original,2020-04-15,0.9153605
+9789178914258,9789178914203,42 kilo kärlek - Del 6,Felicia Welander,1,6,Storytel Original,2020-04-15,1.024006
+9789178914265,9789178914203,42 kilo kärlek - Del 7,Felicia Welander,1,7,Storytel Original,2020-04-15,0.9770412
+9789178914272,9789178914203,42 kilo kärlek - Del 8,Felicia Welander,1,8,Storytel Original,2020-04-15,0.9629754
+9789178914289,9789178914203,42 kilo kärlek - Del 9,Felicia Welander,1,9,Storytel Original,2020-04-15,1.0985508000000002
+9789178914296,9789178914203,42 kilo kärlek - Del 10,Felicia Welander,1,10,Storytel Original,2020-04-15,0.83114300000000008
+9789178606467,9789178606467,Annars tar jag dig - S1E01,C S Duffy,1,1,Storytel Original,2019-02-25,1.0618694
+9789178606474,9789178606467,Annars tar jag dig - S1E02,C S Duffy,1,2,Storytel Original,2019-02-25,1.0845244
+9789178606481,9789178606467,Annars tar jag dig - S1E03,C S Duffy,1,3,Storytel Original,2019-02-25,1.1492980000000002
+9789178606498,9789178606467,Annars tar jag dig - S1E04,C S Duffy,1,4,Storytel Original,2019-02-25,1.0725074
+9789178606504,9789178606467,Annars tar jag dig - S1E05,C S Duffy,1,5,Storytel Original,2019-02-25,1.0673460000000001
+9789178606511,9789178606467,Annars tar jag dig - S1E06,C S Duffy,1,6,Storytel Original,2019-02-25,1.1050124000000001
+9789178606528,9789178606467,Annars tar jag dig - S1E07,C S Duffy,1,7,Storytel Original,2019-02-25,1.0632484
+9789178606535,9789178606467,Annars tar jag dig - S1E08,C S Duffy,1,8,Storytel Original,2019-02-25,0.8422341000000001
+9789178606542,9789178606467,Annars tar jag dig - S1E09,C S Duffy,1,9,Storytel Original,2019-02-25,0.83323120000000006
+9789178606559,9789178606467,Annars tar jag dig - S1E10,C S Duffy,1,10,Storytel Original,2019-02-25,0.7797851
+9789178010400,9789178010400,Bergtagen - S1E1,"Linda Skugge, Sigrid Tollgård",1,1,Storytel Original,2017-10-31,0.98744280000000006
+9789178010417,9789178010400,Bergtagen - S1E2,"Linda Skugge, Sigrid Tollgård",1,2,Storytel Original,2017-10-31,1.0598994000000002
+9789178010424,9789178010400,Bergtagen - S1E3,"Linda Skugge, Sigrid Tollgård",1,3,Storytel Original,2017-10-31,1.1188221
+9789178010431,9789178010400,Bergtagen - S1E4,"Linda Skugge, Sigrid Tollgård",1,4,Storytel Original,2017-10-31,1.0463064
+9789178010448,9789178010400,Bergtagen - S1E5,"Linda Skugge, Sigrid Tollgård",1,5,Storytel Original,2017-10-31,1.1370249000000001
+9789178010455,9789178010400,Bergtagen - S1E6,"Linda Skugge, Sigrid Tollgård",1,6,Storytel Original,2017-10-31,0.84254930000000006
+9789178010462,9789178010400,Bergtagen - S1E7,"Linda Skugge, Sigrid Tollgård",1,7,Storytel Original,2017-10-31,1.0625589
+9789178010479,9789178010400,Bergtagen - S1E8,"Linda Skugge, Sigrid Tollgård",1,8,Storytel Original,2017-10-31,0.9921117
+9789178010486,9789178010400,Bergtagen - S1E9,"Linda Skugge, Sigrid Tollgård",1,9,Storytel Original,2017-10-31,0.94713660000000011
+9789178010493,9789178010400,Bergtagen - S1E10,"Linda Skugge, Sigrid Tollgård",1,10,Storytel Original,2017-10-31,0.9913631
+9789177611271,9789177611271,"Blod, tvätt & dårar - S1E1",Max Landergård,1,1,Storytel Original,2016-12-27,0.97597740000000011
+9789177611288,9789177611271,"Blod, tvätt & dårar - S1E2",Max Landergård,1,2,Storytel Original,2016-12-27,0.9917177
+9789177611295,9789177611271,"Blod, tvätt & dårar - S1E3",Max Landergård,1,3,Storytel Original,2016-12-27,0.8480653
+9789177611301,9789177611271,"Blod, tvätt & dårar - S1E4",Max Landergård,1,4,Storytel Original,2016-12-27,0.7188924
+9789177611318,9789177611271,"Blod, tvätt & dårar - S1E5",Max Landergård,1,5,Storytel Original,2016-12-27,0.9346468
+9789177611325,9789177611271,"Blod, tvätt & dårar - S1E6",Max Landergård,1,6,Storytel Original,2016-12-27,0.9226889
+9789177611332,9789177611271,"Blod, tvätt & dårar - S1E7",Max Landergård,1,7,Storytel Original,2016-12-27,0.9380155
+9789177611349,9789177611271,"Blod, tvätt & dårar - S1E8",Max Landergård,1,8,Storytel Original,2016-12-27,0.95403160000000009
+9789177611356,9789177611271,"Blod, tvätt & dårar - S1E9",Max Landergård,1,9,Storytel Original,2016-12-27,0.93104170000000008
+9789177611363,9789177611271,"Blod, tvätt & dårar - S1E10",Max Landergård,1,10,Storytel Original,2016-12-27,0.88411630000000008
+9789177357797,9789177357797,Blodet ropar - S1E1,Edmond Alonso,1,1,Storytel Original,2016-11-22,1.0371459
+9789177357803,9789177357797,Blodet ropar - S1E2,Edmond Alonso,1,2,Storytel Original,2016-11-22,0.95775490000000008
+9789177357810,9789177357797,Blodet ropar - S1E3,Edmond Alonso,1,3,Storytel Original,2016-11-22,1.1261899
+9789177357827,9789177357797,Blodet ropar - S1E4,Edmond Alonso,1,4,Storytel Original,2016-11-22,0.9799174
+9789177357834,9789177357797,Blodet ropar - S1E5,Edmond Alonso,1,5,Storytel Original,2016-11-22,1.0121663
+9789177357841,9789177357797,Blodet ropar - S1E6,Edmond Alonso,1,6,Storytel Original,2016-11-22,1.031689
+9789177357858,9789177357797,Blodet ropar - S1E7,Edmond Alonso,1,7,Storytel Original,2016-11-22,1.0152789
+9789177357865,9789177357797,Blodet ropar - S1E8,Edmond Alonso,1,8,Storytel Original,2016-11-22,1.0598797
+9789177357872,9789177357797,Blodet ropar - S1E9,Edmond Alonso,1,9,Storytel Original,2016-11-22,1.0670505000000001
+9789177357889,9789177357797,Blodet ropar - S1E10,Edmond Alonso,1,10,Storytel Original,2016-11-22,1.1510513
+9789177352006,9789177352006,Byvalla - S1E1,Karin Janson,1,1,Storytel Original,2016-07-26,0.8629388
+9789177352013,9789177352006,Byvalla - S1E2,Karin Janson,1,2,Storytel Original,2016-07-26,0.92129020000000006
+9789177352020,9789177352006,Byvalla - S1E3,Karin Janson,1,3,Storytel Original,2016-07-26,0.8643178
+9789177352037,9789177352006,Byvalla - S1E4,Karin Janson,1,4,Storytel Original,2016-07-26,0.8449527
+9789177352044,9789177352006,Byvalla - S1E5,Karin Janson,1,5,Storytel Original,2016-07-26,0.81755
+9789177352051,9789177352006,Byvalla - S1E6,Karin Janson,1,6,Storytel Original,2016-07-26,0.9218024
+9789177352068,9789177352006,Byvalla - S1E7,Karin Janson,1,7,Storytel Original,2016-07-26,0.86250540000000009
+9789177352075,9789177352006,Byvalla - S1E8,Karin Janson,1,8,Storytel Original,2016-07-26,0.89398600000000006
+9789177352082,9789177352006,Byvalla - S1E9,Karin Janson,1,9,Storytel Original,2016-07-26,0.91161750000000008
+9789177352099,9789177352006,Byvalla - S1E10,Karin Janson,1,10,Storytel Original,2016-07-26,0.88297370000000008
+9789177787235,9789177787235,Byvalla - S2E1,Karin Janson,2,1,Storytel Original,2017-05-10,1.0294826000000001
+9789177787242,9789177787235,Byvalla - S2E2,Karin Janson,2,2,Storytel Original,2017-05-10,1.0959701000000002
+9789177787259,9789177787235,Byvalla - S2E3,Karin Janson,2,3,Storytel Original,2017-05-10,1.0738076
+9789177787266,9789177787235,Byvalla - S2E4,Karin Janson,2,4,Storytel Original,2017-05-10,0.9644332000000001
+9789177787273,9789177787235,Byvalla - S2E5,Karin Janson,2,5,Storytel Original,2017-05-10,0.9790506000000001
+9789177787280,9789177787235,Byvalla - S2E6,Karin Janson,2,6,Storytel Original,2017-05-10,0.9840347
+9789177787297,9789177787235,Byvalla - S2E7,Karin Janson,2,7,Storytel Original,2017-05-10,0.9578731
+9789177787303,9789177787235,Byvalla - S2E8,Karin Janson,2,8,Storytel Original,2017-05-10,0.96334970000000009
+9789177787310,9789177787235,Byvalla - S2E9,Karin Janson,2,9,Storytel Original,2017-05-10,0.97564250000000008
+9789177787327,9789177787235,Byvalla - S2E10,Karin Janson,2,10,Storytel Original,2017-05-10,0.99983410000000006
+9789177788478,9789177788478,Byvalla - S3E1,Karin Janson,3,1,Storytel Original,2018-02-27,1.0806632
+9789177788485,9789177788478,Byvalla - S3E2,Karin Janson,3,2,Storytel Original,2018-02-27,1.0171898000000001
+9789177788492,9789177788478,Byvalla - S3E3,Karin Janson,3,3,Storytel Original,2018-02-27,1.0491235
+9789177788508,9789177788478,Byvalla - S3E4,Karin Janson,3,4,Storytel Original,2018-02-27,0.9997553
+9789177788515,9789177788478,Byvalla - S3E5,Karin Janson,3,5,Storytel Original,2018-02-27,1.0221542000000001
+9789177788522,9789177788478,Byvalla - S3E6,Karin Janson,3,6,Storytel Original,2018-02-27,0.9924663
+9789177788539,9789177788478,Byvalla - S3E7,Karin Janson,3,7,Storytel Original,2018-02-27,0.9866548
+9789177788546,9789177788478,Byvalla - S3E8,Karin Janson,3,8,Storytel Original,2018-02-27,1.0617118
+9789177788553,9789177788478,Byvalla - S3E9,Karin Janson,3,9,Storytel Original,2018-02-27,1.042721
+9789177788560,9789177788478,Byvalla - S3E10,Karin Janson,3,10,Storytel Original,2018-02-27,1.0957928000000001
+9789178417049,9789178417049,Centralgången - Del 1,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,1,Storytel Original,2018-12-01,0.6803789
+9789178417056,9789178417049,Centralgången - Del 2,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,2,Storytel Original,2018-12-02,0.61647210000000008
+9789178417063,9789178417049,Centralgången - Del 3,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,3,Storytel Original,2018-12-03,0.5826669
+9789178417070,9789178417049,Centralgången - Del 4,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,4,Storytel Original,2018-12-04,0.5269553
+9789178417087,9789178417049,Centralgången - Del 5,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,5,Storytel Original,2018-12-05,0.57336850000000006
+9789178417094,9789178417049,Centralgången - Del 6,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,6,Storytel Original,2018-12-06,0.5450793
+9789178417100,9789178417049,Centralgången - Del 7,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,7,Storytel Original,2018-12-07,0.5549096
+9789178417117,9789178417049,Centralgången - Del 8,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,8,Storytel Original,2018-12-08,0.5508908
+9789178417124,9789178417049,Centralgången - Del 9,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,9,Storytel Original,2018-12-09,0.5538064
+9789178417131,9789178417049,Centralgången - Del 10,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,10,Storytel Original,2018-12-10,0.5533139
+9789178417148,9789178417049,Centralgången - Del 11,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,11,Storytel Original,2018-12-11,0.5527623
+9789178417155,9789178417049,Centralgången - Del 12,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,12,Storytel Original,2018-12-12,0.49575050000000004
+9789178417162,9789178417049,Centralgången - Del 13,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,13,Storytel Original,2018-12-13,0.54972850000000006
+9789178417179,9789178417049,Centralgången - Del 14,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,14,Storytel Original,2018-12-14,0.53119080000000007
+9789178417186,9789178417049,Centralgången - Del 15,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,15,Storytel Original,2018-12-15,0.53981940000000006
+9789178417193,9789178417049,Centralgången - Del 16,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,16,Storytel Original,2018-12-16,0.5697831
+9789178417209,9789178417049,Centralgången - Del 17,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,17,Storytel Original,2018-12-17,0.5682859
+9789178417216,9789178417049,Centralgången - Del 18,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,18,Storytel Original,2018-12-18,0.5514227
+9789178417223,9789178417049,Centralgången - Del 19,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,19,Storytel Original,2018-12-19,0.5677934
+9789178417230,9789178417049,Centralgången - Del 20,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,20,Storytel Original,2018-12-20,0.51771600000000007
+9789178417247,9789178417049,Centralgången - Del 21,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,21,Storytel Original,2018-12-21,0.5141109
+9789178417254,9789178417049,Centralgången - Del 22,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,22,Storytel Original,2018-12-22,0.5484677
+9789178417261,9789178417049,Centralgången - Del 23,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,23,Storytel Original,2018-12-23,0.5223455
+9789178417278,9789178417049,Centralgången - Del 24,"Felicia Welander, Gunnar Svensén, Karin Janson, Magnus Abrahamsson, Storytel Writers' Room",1,24,Storytel Original,2018-12-24,0.4964794
+9789177916536,9789177916536,Dalagatan 14 - S1E1,"Karina Berg Johansson, Magnus Nordin",1,1,Storytel Original,2017-12-01,0.41901900000000003
+9789177916543,9789177916536,Dalagatan 14 - S1E2,"Karina Berg Johansson, Magnus Nordin",1,2,Storytel Original,2017-12-02,0.42991310000000005
+9789177916550,9789177916536,Dalagatan 14 - S1E3,"Karina Berg Johansson, Magnus Nordin",1,3,Storytel Original,2017-12-03,0.4217967
+9789177916567,9789177916536,Dalagatan 14 - S1E4,"Karina Berg Johansson, Magnus Nordin",1,4,Storytel Original,2017-12-04,0.42863260000000003
+9789177916574,9789177916536,Dalagatan 14 - S1E5,"Karina Berg Johansson, Magnus Nordin",1,5,Storytel Original,2017-12-05,0.4029241
+9789177916581,9789177916536,Dalagatan 14 - S1E6,"Karina Berg Johansson, Magnus Nordin",1,6,Storytel Original,2017-12-06,0.5294375
+9789177916598,9789177916536,Dalagatan 14 - S1E7,"Karina Berg Johansson, Magnus Nordin",1,7,Storytel Original,2017-12-07,0.4225256
+9789177916604,9789177916536,Dalagatan 14 - S1E8,"Karina Berg Johansson, Magnus Nordin",1,8,Storytel Original,2017-12-08,0.4160837
+9789177916611,9789177916536,Dalagatan 14 - S1E9,"Karina Berg Johansson, Magnus Nordin",1,9,Storytel Original,2017-12-09,0.4215012
+9789177916628,9789177916536,Dalagatan 14 - S1E10,"Karina Berg Johansson, Magnus Nordin",1,10,Storytel Original,2017-12-10,0.42337270000000005
+9789177916635,9789177916536,Dalagatan 14 - S1E11,"Karina Berg Johansson, Magnus Nordin",1,11,Storytel Original,2017-12-11,0.4221513
+9789177916642,9789177916536,Dalagatan 14 - S1E12,"Karina Berg Johansson, Magnus Nordin",1,12,Storytel Original,2017-12-12,0.45375010000000005
+9789177916659,9789177916536,Dalagatan 14 - S1E13,"Karina Berg Johansson, Magnus Nordin",1,13,Storytel Original,2017-12-13,0.428672
+9789177916666,9789177916536,Dalagatan 14 - S1E14,"Karina Berg Johansson, Magnus Nordin",1,14,Storytel Original,2017-12-14,0.43241500000000005
+9789177916673,9789177916536,Dalagatan 14 - S1E15,"Karina Berg Johansson, Magnus Nordin",1,15,Storytel Original,2017-12-15,0.44133910000000004
+9789177916680,9789177916536,Dalagatan 14 - S1E16,"Karina Berg Johansson, Magnus Nordin",1,16,Storytel Original,2017-12-16,0.42124510000000004
+9789177916697,9789177916536,Dalagatan 14 - S1E17,"Karina Berg Johansson, Magnus Nordin",1,17,Storytel Original,2017-12-17,0.3327724
+9789177916703,9789177916536,Dalagatan 14 - S1E18,"Karina Berg Johansson, Magnus Nordin",1,18,Storytel Original,2017-12-18,0.4312724
+9789177916710,9789177916536,Dalagatan 14 - S1E19,"Karina Berg Johansson, Magnus Nordin",1,19,Storytel Original,2017-12-19,0.424732
+9789177916727,9789177916536,Dalagatan 14 - S1E20,"Karina Berg Johansson, Magnus Nordin",1,20,Storytel Original,2017-12-20,0.4200434
+9789177916734,9789177916536,Dalagatan 14 - S1E21,"Karina Berg Johansson, Magnus Nordin",1,21,Storytel Original,2017-12-21,0.4244759
+9789177916741,9789177916536,Dalagatan 14 - S1E22,"Karina Berg Johansson, Magnus Nordin",1,22,Storytel Original,2017-12-22,0.4570597
+9789177916758,9789177916536,Dalagatan 14 - S1E23,"Karina Berg Johansson, Magnus Nordin",1,23,Storytel Original,2017-12-23,0.3839727
+9789177916765,9789177916536,Dalagatan 14 - S1E24,"Karina Berg Johansson, Magnus Nordin",1,24,Storytel Original,2017-12-24,0.45977830000000003
+9789177615408,9789177615408,De herrelösa hundarna - S1E1,Fredrik Hardenborg,1,1,Storytel Original,2017-03-20,0.97727760000000008
+9789177615415,9789177615408,De herrelösa hundarna - S1E2,Fredrik Hardenborg,1,2,Storytel Original,2017-03-20,0.96494540000000006
+9789177615422,9789177615408,De herrelösa hundarna - S1E3,Fredrik Hardenborg,1,3,Storytel Original,2017-03-20,0.92861860000000007
+9789177615439,9789177615408,De herrelösa hundarna - S1E4,Fredrik Hardenborg,1,4,Storytel Original,2017-03-20,0.95854290000000009
+9789177615446,9789177615408,De herrelösa hundarna - S1E5,Fredrik Hardenborg,1,5,Storytel Original,2017-03-20,0.9996568
+9789177615453,9789177615408,De herrelösa hundarna - S1E6,Fredrik Hardenborg,1,6,Storytel Original,2017-03-20,0.9868124
+9789177615460,9789177615408,De herrelösa hundarna - S1E7,Fredrik Hardenborg,1,7,Storytel Original,2017-03-20,0.9625026000000001
+9789177615477,9789177615408,De herrelösa hundarna - S1E8,Fredrik Hardenborg,1,8,Storytel Original,2017-03-20,0.9230435
+9789177615484,9789177615408,De herrelösa hundarna - S1E9,Fredrik Hardenborg,1,9,Storytel Original,2017-03-20,0.8681396
+9789177615491,9789177615408,De herrelösa hundarna - S1E10,Fredrik Hardenborg,1,10,Storytel Original,2017-03-20,0.90092040000000007
+9789177610618,9789177610618,De själlösa - S1E1,Helene Holmström,1,1,Storytel Original,2017-07-04,1.0434893
+9789177610625,9789177610618,De själlösa - S1E2,Helene Holmström,1,2,Storytel Original,2017-07-04,1.0034392
+9789177610632,9789177610618,De själlösa - S1E3,Helene Holmström,1,3,Storytel Original,2017-07-04,1.0483355
+9789177610649,9789177610618,De själlösa - S1E4,Helene Holmström,1,4,Storytel Original,2017-07-04,1.0871839
+9789177610656,9789177610618,De själlösa - S1E5,Helene Holmström,1,5,Storytel Original,2017-07-04,1.0524922
+9789177610663,9789177610618,De själlösa - S1E6,Helene Holmström,1,6,Storytel Original,2017-07-04,1.0098023
+9789177610670,9789177610618,De själlösa - S1E7,Helene Holmström,1,7,Storytel Original,2017-07-04,0.9858274
+9789177610687,9789177610618,De själlösa - S1E8,Helene Holmström,1,8,Storytel Original,2017-07-04,1.0373035000000002
+9789177610694,9789177610618,De själlösa - S1E9,Helene Holmström,1,9,Storytel Original,2017-07-04,1.0331074
+9789177610700,9789177610618,De själlösa - S1E10,Helene Holmström,1,10,Storytel Original,2017-07-04,1.0870263
+9789177615187,9789177615187,Deadline - S1E1,Carl V Andersson,1,1,Storytel Original,2017-02-21,0.86112640000000007
+9789177615194,9789177615187,Deadline - S1E2,Carl V Andersson,1,2,Storytel Original,2017-02-21,0.9532633
+9789177615200,9789177615187,Deadline - S1E3,Carl V Andersson,1,3,Storytel Original,2017-02-21,0.9159121
+9789177615217,9789177615187,Deadline - S1E4,Carl V Andersson,1,4,Storytel Original,2017-02-21,0.86063390000000006
+9789177615224,9789177615187,Deadline - S1E5,Carl V Andersson,1,5,Storytel Original,2017-02-21,0.7666846
+9789177615231,9789177615187,Deadline - S1E6,Carl V Andersson,1,6,Storytel Original,2017-02-21,0.65725110000000009
+9789177615248,9789177615187,Deadline - S1E7,Carl V Andersson,1,7,Storytel Original,2017-02-21,0.7920779
+9789177615255,9789177615187,Deadline - S1E8,Carl V Andersson,1,8,Storytel Original,2017-02-21,0.6706274
+9789177615262,9789177615187,Deadline - S1E9,Carl V Andersson,1,9,Storytel Original,2017-02-21,0.8807870000000001
+9789177615279,9789177615187,Deadline - S1E10,Carl V Andersson,1,10,Storytel Original,2017-02-21,1.0069261
+9789178170937,9789178170937,Dolt nummer - S1E1,Niklas Lindroth,1,1,Storytel Original,2019-08-01,1.0055471
+9789178170944,9789178170937,Dolt nummer - S1E2,Niklas Lindroth,1,2,Storytel Original,2019-08-01,1.0073792000000001
+9789178170951,9789178170937,Dolt nummer - S1E3,Niklas Lindroth,1,3,Storytel Original,2019-08-01,0.92436340000000006
+9789178170968,9789178170937,Dolt nummer - S1E4,Niklas Lindroth,1,4,Storytel Original,2019-08-01,0.876453
+9789178170975,9789178170937,Dolt nummer - S1E5,Niklas Lindroth,1,5,Storytel Original,2019-08-01,0.88584990000000008
+9789178170982,9789178170937,Dolt nummer - S1E6,Niklas Lindroth,1,6,Storytel Original,2019-08-01,0.9208962
+9789178170999,9789178170937,Dolt nummer - S1E7,Niklas Lindroth,1,7,Storytel Original,2019-08-01,0.8753104
+9789178171002,9789178170937,Dolt nummer - S1E8,Niklas Lindroth,1,8,Storytel Original,2019-08-01,0.96821560000000007
+9789178171019,9789178170937,Dolt nummer - S1E9,Niklas Lindroth,1,9,Storytel Original,2019-08-01,0.8417219
+9789178171026,9789178170937,Dolt nummer - S1E10,Niklas Lindroth,1,10,Storytel Original,2019-08-01,0.97554400000000008
+9789178601462,9789178601462,Drömmen om Tom - Del 1,Sara Dalengren,1,1,Storytel Original,2020-07-01,0.9555485
+9789178601479,9789178601462,Drömmen om Tom - Del 2,Sara Dalengren,1,2,Storytel Original,2020-07-01,0.99421960000000009
+9789178601486,9789178601462,Drömmen om Tom - Del 3,Sara Dalengren,1,3,Storytel Original,2020-07-01,1.0346243000000002
+9789178601493,9789178601462,Drömmen om Tom - Del 4,Sara Dalengren,1,4,Storytel Original,2020-07-01,0.89264640000000006
+9789178601509,9789178601462,Drömmen om Tom - Del 5,Sara Dalengren,1,5,Storytel Original,2020-07-01,0.83922000000000008
+9789178601516,9789178601462,Drömmen om Tom - Del 6,Sara Dalengren,1,6,Storytel Original,2020-07-01,0.9245407000000001
+9789178601523,9789178601462,Drömmen om Tom - Del 7,Sara Dalengren,1,7,Storytel Original,2020-07-01,0.9600007
+9789178601530,9789178601462,Drömmen om Tom - Del 8,Sara Dalengren,1,8,Storytel Original,2020-07-01,0.93332690000000007
+9789178601547,9789178601462,Drömmen om Tom - Del 9,Sara Dalengren,1,9,Storytel Original,2020-07-01,0.90060520000000011
+9789178601554,9789178601462,Drömmen om Tom - Del 10,Sara Dalengren,1,10,Storytel Original,2020-07-01,1.0284188
+9789177912095,9789177912095,Ellen Holms - privatdetektiv - S1E1,Nicolet Steemers,1,1,Storytel Original,2018-01-09,0.94591520000000007
+9789177912101,9789177912095,Ellen Holms - privatdetektiv - S1E2,Nicolet Steemers,1,2,Storytel Original,2018-01-09,0.95576520000000009
+9789177912118,9789177912095,Ellen Holms - privatdetektiv - S1E3,Nicolet Steemers,1,3,Storytel Original,2018-01-09,0.9365774
+9789177912125,9789177912095,Ellen Holms - privatdetektiv - S1E4,Nicolet Steemers,1,4,Storytel Original,2018-01-09,0.9248362
+9789177912132,9789177912095,Ellen Holms - privatdetektiv - S1E5,Nicolet Steemers,1,5,Storytel Original,2018-01-09,0.91861100000000007
+9789177912149,9789177912095,Ellen Holms - privatdetektiv - S1E6,Nicolet Steemers,1,6,Storytel Original,2018-01-09,0.9443983
+9789177912156,9789177912095,Ellen Holms - privatdetektiv - S1E7,Nicolet Steemers,1,7,Storytel Original,2018-01-09,0.92767300000000008
+9789177912163,9789177912095,Ellen Holms - privatdetektiv - S1E8,Nicolet Steemers,1,8,Storytel Original,2018-01-09,0.9540119
+9789177912170,9789177912095,Ellen Holms - privatdetektiv - S1E9,Nicolet Steemers,1,9,Storytel Original,2018-01-09,0.972983
+9789177912187,9789177912095,Ellen Holms - privatdetektiv - S1E10,Nicolet Steemers,1,10,Storytel Original,2018-01-09,0.92777150000000008
+9789177911708,9789177911708,En andra chans - S1E1,Martyn van Beek,1,1,Storytel Original,2017-07-11,0.88332830000000007
+9789177911715,9789177911708,En andra chans - S1E2,Martyn van Beek,1,2,Storytel Original,2017-07-11,0.7711565
+9789177911722,9789177911708,En andra chans - S1E3,Martyn van Beek,1,3,Storytel Original,2017-07-11,0.82257350000000007
+9789177911739,9789177911708,En andra chans - S1E4,Martyn van Beek,1,4,Storytel Original,2017-07-11,0.76449790000000006
+9789177911746,9789177911708,En andra chans - S1E5,Martyn van Beek,1,5,Storytel Original,2017-07-11,0.77885920000000008
+9789177911753,9789177911708,En andra chans - S1E6,Martyn van Beek,1,6,Storytel Original,2017-07-11,0.7224975
+9789177911760,9789177911708,En andra chans - S1E7,Martyn van Beek,1,7,Storytel Original,2017-07-11,0.72970770000000007
+9789177911777,9789177911708,En andra chans - S1E8,Martyn van Beek,1,8,Storytel Original,2017-07-11,0.81636800000000009
+9789177911784,9789177911708,En andra chans - S1E9,Martyn van Beek,1,9,Storytel Original,2017-07-11,0.92822460000000007
+9789177611059,9789177611059,En ohelig allians - S1E1,Maria Vickberg,1,1,Storytel Original,2017-09-26,1.1566461000000001
+9789177611066,9789177611059,En ohelig allians - S1E2,Maria Vickberg,1,2,Storytel Original,2017-09-26,1.0338757
+9789177611073,9789177611059,En ohelig allians - S1E3,Maria Vickberg,1,3,Storytel Original,2017-09-26,1.0339545
+9789177611080,9789177611059,En ohelig allians - S1E4,Maria Vickberg,1,4,Storytel Original,2017-09-26,0.9929785000000001
+9789177611097,9789177611059,En ohelig allians - S1E5,Maria Vickberg,1,5,Storytel Original,2017-09-26,1.0451047
+9789177611103,9789177611059,En ohelig allians - S1E6,Maria Vickberg,1,6,Storytel Original,2017-09-26,1.0272368
+9789177611110,9789177611059,En ohelig allians - S1E7,Maria Vickberg,1,7,Storytel Original,2017-09-26,1.0025921
+9789177611127,9789177611059,En ohelig allians - S1E8,Maria Vickberg,1,8,Storytel Original,2017-09-26,0.9853743
+9789177611134,9789177611059,En ohelig allians - S1E9,Maria Vickberg,1,9,Storytel Original,2017-09-26,1.0084824000000001
+9789177611141,9789177611059,En ohelig allians - S1E10,Maria Vickberg,1,10,Storytel Original,2017-09-26,1.1264657
+9789177780007,9789177780007,Evas första vecka som död - S1E1,Anders Fager,1,1,Storytel Original,2017-04-11,0.8700702
+9789177780014,9789177780007,Evas första vecka som död- S1E2,Anders Fager,1,2,Storytel Original,2017-04-11,0.86360860000000006
+9789177780021,9789177780007,Evas första vecka som död- S1E3,Anders Fager,1,3,Storytel Original,2017-04-11,0.8049026
+9789177780038,9789177780007,Evas första vecka som död - S1E4,Anders Fager,1,4,Storytel Original,2017-04-11,0.8290942
+9789177780045,9789177780007,Evas första vecka som död - S1E5,Anders Fager,1,5,Storytel Original,2017-04-11,0.7177301
+9789177780052,9789177780007,Evas första vecka som död - S1E6,Anders Fager,1,6,Storytel Original,2017-04-11,0.78555720000000007
+9789177780069,9789177780007,Evas första vecka som död - S1E7,Anders Fager,1,7,Storytel Original,2017-04-11,0.71489330000000006
+9789177780076,9789177780007,Evas första vecka som död - S1E8,Anders Fager,1,8,Storytel Original,2017-04-11,0.66335810000000006
+9789177780083,9789177780007,Evas första vecka som död - S1E9,Anders Fager,1,9,Storytel Original,2017-04-11,0.74402960000000007
+9789177780090,9789177780007,Evas första vecka som död - S1E10,Anders Fager,1,10,Storytel Original,2017-04-11,0.72257630000000006
+9789178158089,9789178158089,Fader Malakis ögon - S01E01,Marko Hautala,1,1,Storytel Original,2018-12-25,0.9281064
+9789178158096,9789178158089,Fader Malakis ögon - S01E02,Marko Hautala,1,2,Storytel Original,2018-12-25,0.898714
+9789178158102,9789178158089,Fader Malakis ögon - S01E03,Marko Hautala,1,3,Storytel Original,2018-12-25,0.97672600000000009
+9789178158119,9789178158089,Fader Malakis ögon - S01E04,Marko Hautala,1,4,Storytel Original,2018-12-25,0.9036784000000001
+9789178158126,9789178158089,Fader Malakis ögon - S01E05,Marko Hautala,1,5,Storytel Original,2018-12-25,0.8623478
+9789178158133,9789178158089,Fader Malakis ögon - S01E06,Marko Hautala,1,6,Storytel Original,2018-12-25,0.8680214
+9789178158140,9789178158089,Fader Malakis ögon - S01E07,Marko Hautala,1,7,Storytel Original,2018-12-25,0.89680310000000008
+9789178158157,9789178158089,Fader Malakis ögon - S01E08,Marko Hautala,1,8,Storytel Original,2018-12-25,0.90170840000000008
+9789178158164,9789178158089,Fader Malakis ögon - S01E09,Marko Hautala,1,9,Storytel Original,2018-12-25,0.92146750000000011
+9789178158171,9789178158089,Fader Malakis ögon - S01E10,Marko Hautala,1,10,Storytel Original,2018-12-25,0.92054160000000007
+9789132200212,9789132200212,Del 1 – Freak,Karina Berg Johansson,1,1,Storytel Kids,2017-05-23,0.7420793
+9789132200229,9789132200212,Del 2 – Freak,Karina Berg Johansson,1,2,Storytel Kids,2017-05-23,0.74536920000000007
+9789132200236,9789132200212,Del 3 – Freak,Karina Berg Johansson,1,3,Storytel Kids,2017-05-23,0.75021540000000009
+9789132200243,9789132200212,Del 4 – Freak,Karina Berg Johansson,1,4,Storytel Kids,2017-05-23,0.7502942
+9789132200250,9789132200212,Del 5 – Freak,Karina Berg Johansson,1,5,Storytel Kids,2017-05-23,0.7494077
+9789132200267,9789132200212,Del 6 – Freak,Karina Berg Johansson,1,6,Storytel Kids,2017-05-23,0.7357162
+9789132200274,9789132200212,Del 7 – Freak,Karina Berg Johansson,1,7,Storytel Kids,2017-05-23,0.73098820000000009
+9789132200281,9789132200212,Del 8 – Freak,Karina Berg Johansson,1,8,Storytel Kids,2017-05-23,0.7409367
+9789132200298,9789132200212,Del 9 – Freak,Karina Berg Johansson,1,9,Storytel Kids,2017-05-23,0.76181870000000007
+9789132200304,9789132200212,Del 10 – Freak,Karina Berg Johansson,1,10,Storytel Kids,2017-05-23,0.7483242
+9789179078140,9789179078140,Förändringarnas vindar - Del 1,Veronica Almer,1,1,Storytel Original,2020-06-22,3.0685311
+9789179078157,9789179078140,Förändringarnas vindar - Del 2,Veronica Almer,1,2,Storytel Original,2020-06-24,3.0130362
+9789179078164,9789179078140,Förändringarnas vindar - Del 3,Veronica Almer,1,3,Storytel Original,2020-06-26,3.0189856
+9789179078171,9789179078140,Förändringarnas vindar - Del 4,Veronica Almer,1,4,Storytel Original,2020-06-29,3.0163064000000004
+9789179078188,9789179078140,Förändringarnas vindar - Del 5,Veronica Almer,1,5,Storytel Original,2020-07-01,2.9962518
+9789179078195,9789179078140,Förändringarnas vindar - Del 6,Veronica Almer,1,6,Storytel Original,2020-07-03,3.0406950000000004
+9789177355441,9789177355441,Graffitimorden - Del 1,Christian Holmqvist,1,1,Storytel Original,2016-09-20,0.96790040000000011
+9789177355458,9789177355441,Graffitimorden - Del 2,Christian Holmqvist,1,2,Storytel Original,2016-09-20,0.98153280000000009
+9789177355465,9789177355441,Graffitimorden - Del 3,Christian Holmqvist,1,3,Storytel Original,2016-09-20,0.93967030000000007
+9789177355472,9789177355441,Graffitimorden - Del 4,Christian Holmqvist,1,4,Storytel Original,2016-09-20,1.0091325
+9789177355489,9789177355441,Graffitimorden - Del 5,Christian Holmqvist,1,5,Storytel Original,2016-09-20,0.87227660000000007
+9789177355496,9789177355441,Graffitimorden - Del 6,Christian Holmqvist,1,6,Storytel Original,2016-09-20,0.88689400000000007
+9789177355502,9789177355441,Graffitimorden - Del 7,Christian Holmqvist,1,7,Storytel Original,2016-09-20,1.0216420000000002
+9789177355519,9789177355441,Graffitimorden - Del 8,Christian Holmqvist,1,8,Storytel Original,2016-09-20,0.81211280000000008
+9789177355526,9789177355441,Graffitimorden - Del 9,Christian Holmqvist,1,9,Storytel Original,2016-09-20,0.9052150000000001
+9789177355533,9789177355441,Graffitimorden - Del 10,Christian Holmqvist,1,10,Storytel Original,2016-09-20,0.9549575
+9789177350002,9789177350002,Gustav III checkar in - Del 1,Christian Holmqvist,1,1,Storytel Original,2016-06-14,0.86043690000000006
+9789177350019,9789177350002,Gustav III checkar in - Del 2,Christian Holmqvist,1,2,Storytel Original,2016-06-14,0.8342753
+9789177350026,9789177350002,Gustav III checkar in - Del 3,Christian Holmqvist,1,3,Storytel Original,2016-06-14,0.86632720000000007
+9789177350033,9789177350002,Gustav III checkar in - Del 4,Christian Holmqvist,1,4,Storytel Original,2016-06-14,0.85145370000000009
+9789177350040,9789177350002,Gustav III checkar in - Del 5,Christian Holmqvist,1,5,Storytel Original,2016-06-14,0.8104974
+9789177350057,9789177350002,Gustav III checkar in - Del 6,Christian Holmqvist,1,6,Storytel Original,2016-06-14,0.8297443000000001
+9789177350064,9789177350002,Gustav III checkar in - Del 7,Christian Holmqvist,1,7,Storytel Original,2016-06-14,0.8664651000000001
+9789177350071,9789177350002,Gustav III checkar in - Del 8,Christian Holmqvist,1,8,Storytel Original,2016-06-14,0.8934738000000001
+9789177350088,9789177350002,Gustav III checkar in - Del 9,Christian Holmqvist,1,9,Storytel Original,2016-06-14,0.874877
+9789177350095,9789177350002,Gustav III checkar in - Del 10,Christian Holmqvist,1,10,Storytel Original,2016-06-14,0.86721370000000009
+9789178010608,9789178010608,Gustav III checkar in - S2E1,Christian Holmqvist,2,1,Storytel Original,2017-10-17,0.95259350000000009
+9789178010615,9789178010608,Gustav III checkar in - S2E2,Christian Holmqvist,2,2,Storytel Original,2017-10-17,0.97495300000000007
+9789178010622,9789178010608,Gustav III checkar in - S2E3,Christian Holmqvist,2,3,Storytel Original,2017-10-17,0.88584990000000008
+9789178010639,9789178010608,Gustav III checkar in - S2E4,Christian Holmqvist,2,4,Storytel Original,2017-10-17,1.0434105
+9789178010646,9789178010608,Gustav III checkar in - S2E5,Christian Holmqvist,2,5,Storytel Original,2017-10-17,0.9998144000000001
+9789178010653,9789178010608,Gustav III checkar in - S2E6,Christian Holmqvist,2,6,Storytel Original,2017-10-17,0.9888021
+9789178010660,9789178010608,Gustav III checkar in - S2E7,Christian Holmqvist,2,7,Storytel Original,2017-10-17,0.9613994
+9789178010677,9789178010608,Gustav III checkar in - S2E8,Christian Holmqvist,2,8,Storytel Original,2017-10-17,0.9736528000000001
+9789178010684,9789178010608,Gustav III checkar in - S2E9,Christian Holmqvist,2,9,Storytel Original,2017-10-17,1.0780825
+9789178010691,9789178010608,Gustav III checkar in - S2E10,Christian Holmqvist,2,10,Storytel Original,2017-10-17,1.011398
+9789178071166,9789178071166,Gäddsimmerskan - S1E1,Cecilia Klang,1,1,Storytel Original,2018-07-03,1.0690796
+9789178071173,9789178071166,Gäddsimmerskan - S1E2,Cecilia Klang,1,2,Storytel Original,2018-07-03,0.9870094
+9789178071180,9789178071166,Gäddsimmerskan - S1E3,Cecilia Klang,1,3,Storytel Original,2018-07-03,1.0056456
+9789178071197,9789178071166,Gäddsimmerskan - S1E4,Cecilia Klang,1,4,Storytel Original,2018-07-03,1.0155153000000001
+9789178071203,9789178071166,Gäddsimmerskan - S1E5,Cecilia Klang,1,5,Storytel Original,2018-07-03,1.0006812
+9789178071210,9789178071166,Gäddsimmerskan - S1E6,Cecilia Klang,1,6,Storytel Original,2018-07-03,1.0087976
+9789178071227,9789178071166,Gäddsimmerskan - S1E7,Cecilia Klang,1,7,Storytel Original,2018-07-03,1.0021784
+9789178071234,9789178071166,Gäddsimmerskan - S1E8,Cecilia Klang,1,8,Storytel Original,2018-07-03,0.9963472000000001
+9789178071241,9789178071166,Gäddsimmerskan - S1E9,Cecilia Klang,1,9,Storytel Original,2018-07-03,1.0055471
+9789178071258,9789178071166,Gäddsimmerskan - S1E10,Cecilia Klang,1,10,Storytel Original,2018-07-03,1.0090734000000001
+9789178694181,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E1,Cecilia Klang,2,1,Storytel Original,2020-01-03,1.0179975
+9789178694198,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E2,Cecilia Klang,2,2,Storytel Original,2020-01-03,1.0182536
+9789178694204,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E3,Cecilia Klang,2,3,Storytel Original,2020-01-03,1.0194553
+9789178694211,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E4,Cecilia Klang,2,4,Storytel Original,2020-01-03,1.0244
+9789178694228,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E5,Cecilia Klang,2,5,Storytel Original,2020-01-03,1.0355896
+9789178694235,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E6,Cecilia Klang,2,6,Storytel Original,2020-01-03,1.0252274000000001
+9789178694242,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E7,Cecilia Klang,2,7,Storytel Original,2020-01-03,0.98129640000000007
+9789178694259,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E8,Cecilia Klang,2,8,Storytel Original,2020-01-03,0.98996440000000008
+9789178694266,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E9,Cecilia Klang,2,9,Storytel Original,2020-01-03,0.9640786
+9789178694273,9789178694181,Gäddsimmerskan och bryggmästarens kärlek - S2E10,Cecilia Klang,2,10,Storytel Original,2020-01-03,0.9542483
+9789178157884,9789178157884,Ha ett underbart år - Del 1,Tove Meyer,1,1,Storytel Original,2020-06-09,0.92322080000000006
+9789178157891,9789178157884,Ha ett underbart år - Del 2,Tove Meyer,1,2,Storytel Original,2020-06-09,0.9090565
+9789178157907,9789178157884,Ha ett underbart år - Del 3,Tove Meyer,1,3,Storytel Original,2020-06-09,0.82355850000000008
+9789178157914,9789178157884,Ha ett underbart år - Del 4,Tove Meyer,1,4,Storytel Original,2020-06-09,0.7831538
+9789178157921,9789178157884,Ha ett underbart år - Del 5,Tove Meyer,1,5,Storytel Original,2020-06-09,0.9219994
+9789178157938,9789178157884,Ha ett underbart år - Del 6,Tove Meyer,1,6,Storytel Original,2020-06-09,0.7272452
+9789178157945,9789178157884,Ha ett underbart år - Del 7,Tove Meyer,1,7,Storytel Original,2020-06-09,0.8503111000000001
+9789178157952,9789178157884,Ha ett underbart år - Del 8,Tove Meyer,1,8,Storytel Original,2020-06-09,0.9577943000000001
+9789178157969,9789178157884,Ha ett underbart år - Del 9,Tove Meyer,1,9,Storytel Original,2020-06-09,0.90596360000000009
+9789178157976,9789178157884,Ha ett underbart år - Del 10,Tove Meyer,1,10,Storytel Original,2020-06-09,1.1301299
+9789177355540,9789177355540,I krig och kärlek - Del 1,"Caroline Grimwalker, Leffe Grimwalker",1,1,Storytel Original,2016-09-27,0.8963303
+9789177355557,9789177355540,I krig och kärlek - Del 2,"Caroline Grimwalker, Leffe Grimwalker",1,2,Storytel Original,2016-09-27,1.0230604
+9789177355564,9789177355540,I krig och kärlek - Del 3,"Caroline Grimwalker, Leffe Grimwalker",1,3,Storytel Original,2016-09-27,0.9720177000000001
+9789177355571,9789177355540,I krig och kärlek - Del 4,"Caroline Grimwalker, Leffe Grimwalker",1,4,Storytel Original,2016-09-27,0.8522811
+9789177355588,9789177355540,I krig och kärlek - Del 5,"Caroline Grimwalker, Leffe Grimwalker",1,5,Storytel Original,2016-09-27,0.95676990000000006
+9789177355595,9789177355540,I krig och kärlek - Del 6,"Caroline Grimwalker, Leffe Grimwalker",1,6,Storytel Original,2016-09-27,0.8521235
+9789177355601,9789177355540,I krig och kärlek - Del 7,"Caroline Grimwalker, Leffe Grimwalker",1,7,Storytel Original,2016-09-27,0.95379520000000007
+9789177355618,9789177355540,I krig och kärlek - Del 8,"Caroline Grimwalker, Leffe Grimwalker",1,8,Storytel Original,2016-09-27,0.85893970000000008
+9789177355625,9789177355540,I krig och kärlek - Del 9,"Caroline Grimwalker, Leffe Grimwalker",1,9,Storytel Original,2016-09-27,0.8834859
+9789177355632,9789177355540,I krig och kärlek - Del 10,"Caroline Grimwalker, Leffe Grimwalker",1,10,Storytel Original,2016-09-27,1.0216814
+9789132203633,9789132203633,Del 1 – Internatskolan,Linda Skugge,1,1,Storytel Kids,2018-05-29,0.437143
+9789132208294,9789132203633,Del 2 – Internatskolan,Linda Skugge,1,2,Storytel Kids,2018-05-29,0.4354094
+9789132208300,9789132203633,Del 3 – Internatskolan,Linda Skugge,1,3,Storytel Kids,2018-05-29,0.5642277
+9789132208317,9789132203633,Del 4 – Internatskolan,Linda Skugge,1,4,Storytel Kids,2018-05-29,0.5808545
+9789132208324,9789132203633,Del 5 – Internatskolan,Linda Skugge,1,5,Storytel Kids,2018-05-29,0.36559260000000005
+9789132208331,9789132203633,Del 6 – Internatskolan,Linda Skugge,1,6,Storytel Kids,2018-05-29,0.5742747
+9789132208348,9789132203633,Del 7 – Internatskolan,Linda Skugge,1,7,Storytel Kids,2018-05-29,0.46866300000000005
+9789132208355,9789132203633,Del 8 – Internatskolan,Linda Skugge,1,8,Storytel Kids,2018-05-29,0.46980560000000005
+9789132208362,9789132203633,Del 9 – Internatskolan,Linda Skugge,1,9,Storytel Kids,2018-05-29,0.44055110000000003
+9789132208379,9789132203633,Del 10 – Internatskolan,Linda Skugge,1,10,Storytel Kids,2018-05-29,0.4419498
+9789177357490,9789177357490,Jordbunden - S1E1,Erik Thulin,1,1,Storytel Original,2016-11-01,0.9967806
+9789177357506,9789177357490,Jordbunden - S1E2,Erik Thulin,1,2,Storytel Original,2016-11-01,1.0251683
+9789177357513,9789177357490,Jordbunden - S1E3,Erik Thulin,1,3,Storytel Original,2016-11-01,1.0362003
+9789177357520,9789177357490,Jordbunden - S1E4,Erik Thulin,1,4,Storytel Original,2016-11-01,1.0217208
+9789177357537,9789177357490,Jordbunden - S1E5,Erik Thulin,1,5,Storytel Original,2016-11-01,1.0458533
+9789177357544,9789177357490,Jordbunden - S1E6,Erik Thulin,1,6,Storytel Original,2016-11-01,1.0347425000000001
+9789177357551,9789177357490,Jordbunden - S1E7,Erik Thulin,1,7,Storytel Original,2016-11-01,1.03031
+9789177357568,9789177357490,Jordbunden - S1E8,Erik Thulin,1,8,Storytel Original,2016-11-01,1.0180763000000002
+9789177357575,9789177357490,Jordbunden - S1E9,Erik Thulin,1,9,Storytel Original,2016-11-01,1.0508571
+9789177357582,9789177357490,Jordbunden - S1E10,Erik Thulin,1,10,Storytel Original,2016-11-01,1.0121663
+9789177919520,9789177919520,Jordbunden - S2E1,Erik Thulin,2,1,Storytel Original,2017-09-05,1.048631
+9789177919537,9789177919520,Jordbunden - S2E2,Erik Thulin,2,2,Storytel Original,2017-09-05,0.9845469
+9789177919544,9789177919520,Jordbunden - S2E3,Erik Thulin,2,3,Storytel Original,2017-09-05,0.97926730000000006
+9789177919551,9789177919520,Jordbunden - S2E4,Erik Thulin,2,4,Storytel Original,2017-09-05,1.0096053
+9789177919568,9789177919520,Jordbunden - S2E5,Erik Thulin,2,5,Storytel Original,2017-09-05,0.99522430000000006
+9789177919575,9789177919520,Jordbunden - S2E6,Erik Thulin,2,6,Storytel Original,2017-09-05,1.0134074
+9789177919582,9789177919520,Jordbunden - S2E7,Erik Thulin,2,7,Storytel Original,2017-09-05,0.9917177
+9789177919599,9789177919520,Jordbunden - S2E8,Erik Thulin,2,8,Storytel Original,2017-09-05,0.9929194
+9789177919605,9789177919520,Jordbunden - S2E9,Erik Thulin,2,9,Storytel Original,2017-09-05,1.0114768
+9789177919612,9789177919520,Jordbunden - S2E10,Erik Thulin,2,10,Storytel Original,2017-09-05,1.0496948000000001
+9789178691609,9789178691609,Jordbunden - S3E1,Erik Thulin,3,1,Storytel Original,2019-06-07,1.0974476
+9789178691616,9789178691609,Jordbunden - S3E2,Erik Thulin,3,2,Storytel Original,2019-06-07,0.88470730000000009
+9789178691623,9789178691609,Jordbunden - S3E3,Erik Thulin,3,3,Storytel Original,2019-06-07,0.92436340000000006
+9789178691630,9789178691609,Jordbunden - S3E4,Erik Thulin,3,4,Storytel Original,2019-06-07,1.0009373000000001
+9789178691647,9789178691609,Jordbunden - S3E5,Erik Thulin,3,5,Storytel Original,2019-06-07,0.9678807
+9789178691654,9789178691609,Jordbunden - S3E6,Erik Thulin,3,6,Storytel Original,2019-06-07,0.97767160000000009
+9789178691661,9789178691609,Jordbunden - S3E7,Erik Thulin,3,7,Storytel Original,2019-06-07,0.94680170000000008
+9789178691678,9789178691609,Jordbunden - S3E8,Erik Thulin,3,8,Storytel Original,2019-06-07,0.9324207000000001
+9789178691685,9789178691609,Jordbunden - S3E9,Erik Thulin,3,9,Storytel Original,2019-06-07,0.94676230000000006
+9789178691692,9789178691609,Jordbunden - S3E10,Erik Thulin,3,10,Storytel Original,2019-06-07,0.90667280000000006
+9789178071463,9789178071463,Jungfruresan - S1E1,Joel Arvidsson,1,1,Storytel Original,2018-10-02,1.0296796000000001
+9789178071470,9789178071463,Jungfruresan - S1E2,Joel Arvidsson,1,2,Storytel Original,2018-10-02,1.1490222
+9789178071487,9789178071463,Jungfruresan - S1E3,Joel Arvidsson,1,3,Storytel Original,2018-10-02,1.0217602000000001
+9789178071494,9789178071463,Jungfruresan - S1E4,Joel Arvidsson,1,4,Storytel Original,2018-10-02,1.027552
+9789178071500,9789178071463,Jungfruresan - S1E5,Joel Arvidsson,1,5,Storytel Original,2018-10-02,1.0428589000000001
+9789178071517,9789178071463,Jungfruresan - S1E6,Joel Arvidsson,1,6,Storytel Original,2018-10-02,0.87757590000000008
+9789178071524,9789178071463,Jungfruresan - S1E7,Joel Arvidsson,1,7,Storytel Original,2018-10-02,1.0233756
+9789178071531,9789178071463,Jungfruresan - S1E8,Joel Arvidsson,1,8,Storytel Original,2018-10-02,1.0469959
+9789178071548,9789178071463,Jungfruresan - S1E9,Joel Arvidsson,1,9,Storytel Original,2018-10-02,1.1249291000000001
+9789178071555,9789178071463,Jungfruresan - S1E10,Joel Arvidsson,1,10,Storytel Original,2018-10-02,1.0702813
+9789178155620,9789178155620,Kalla fötter - S1E1,Karin Janson,1,1,Storytel Original,2019-07-17,1.1002253
+9789178155637,9789178155620,Kalla fötter - S1E2,Karin Janson,1,2,Storytel Original,2019-07-17,1.1001071
+9789178155644,9789178155620,Kalla fötter - S1E3,Karin Janson,1,3,Storytel Original,2019-07-17,1.007655
+9789178155651,9789178155620,Kalla fötter - S1E4,Karin Janson,1,4,Storytel Original,2019-07-17,1.0320436
+9789178155668,9789178155620,Kalla fötter - S1E5,Karin Janson,1,5,Storytel Original,2019-07-17,1.0137423
+9789178155675,9789178155620,Kalla fötter - S1E6,Karin Janson,1,6,Storytel Original,2019-07-17,1.1190585
+9789178155682,9789178155620,Kalla fötter - S1E7,Karin Janson,1,7,Storytel Original,2019-07-17,0.9836013
+9789178155699,9789178155620,Kalla fötter - S1E8,Karin Janson,1,8,Storytel Original,2019-07-17,1.0875385
+9789178155705,9789178155620,Kalla fötter - S1E9,Karin Janson,1,9,Storytel Original,2019-07-17,1.0841501
+9789178155712,9789178155620,Kalla fötter - S1E10,Karin Janson,1,10,Storytel Original,2019-07-17,1.0878537000000001
+9789177615507,9789177615507,Kropparna i Timmerdalen - S1E1,Gustaf Gustafsson,1,1,Storytel Original,2017-04-28,0.925506
+9789177615514,9789177615507,Kropparna i Timmerdalen - S1E2,Gustaf Gustafsson,1,2,Storytel Original,2017-04-28,0.9000339
+9789177615521,9789177615507,Kropparna i Timmerdalen - S1E3,Gustaf Gustafsson,1,3,Storytel Original,2017-04-28,0.97296330000000009
+9789177615538,9789177615507,Kropparna i Timmerdalen - S1E4,Gustaf Gustafsson,1,4,Storytel Original,2017-04-28,0.93378
+9789177615545,9789177615507,Kropparna i Timmerdalen - S1E5,Gustaf Gustafsson,1,5,Storytel Original,2017-04-28,0.87168560000000006
+9789177615552,9789177615507,Kropparna i Timmerdalen - S1E6,Gustaf Gustafsson,1,6,Storytel Original,2017-04-28,0.9424086
+9789177615569,9789177615507,Kropparna i Timmerdalen - S1E7,Gustaf Gustafsson,1,7,Storytel Original,2017-04-28,0.94908690000000007
+9789177615576,9789177615507,Kropparna i Timmerdalen - S1E8,Gustaf Gustafsson,1,8,Storytel Original,2017-04-28,0.8661696000000001
+9789177615583,9789177615507,Kropparna i Timmerdalen - S1E9,Gustaf Gustafsson,1,9,Storytel Original,2017-04-28,0.8694201
+9789177615590,9789177615507,Kropparna i Timmerdalen - S1E10,Gustaf Gustafsson,1,10,Storytel Original,2017-04-28,0.90582570000000007
+9789178393367,9789178393367,Del 1 - Kyssar och andra katastrofer,Eva Susso,1,1,Storytel Kids,2019-01-16,1.0057638
+9789178393374,9789178393367,Del 2 - Kyssar och andra katastrofer,Eva Susso,1,2,Storytel Kids,2019-01-16,0.9194187
+9789178393381,9789178393367,Del 3 - Kyssar och andra katastrofer,Eva Susso,1,3,Storytel Kids,2019-01-16,0.9401234
+9789178393398,9789178393367,Del 4 - Kyssar och andra katastrofer,Eva Susso,1,4,Storytel Kids,2019-01-16,0.87221750000000009
+9789178393404,9789178393367,Del 5 - Kyssar och andra katastrofer,Eva Susso,1,5,Storytel Kids,2019-01-16,0.74978200000000006
+9789177787020,9789177787020,Kämpa tjejer! - S1E1,Jenny Gromark Wennberg,1,1,Storytel Original,2018-10-09,1.0042469
+9789177787037,9789177787020,Kämpa tjejer! - S1E2,Jenny Gromark Wennberg,1,2,Storytel Original,2018-10-09,0.95684870000000011
+9789177787044,9789177787020,Kämpa tjejer! - S1E3,Jenny Gromark Wennberg,1,3,Storytel Original,2018-10-09,0.89174020000000009
+9789177787051,9789177787020,Kämpa tjejer! - S1E4,Jenny Gromark Wennberg,1,4,Storytel Original,2018-10-09,1.0265276
+9789177787068,9789177787020,Kämpa tjejer! - S1E5,Jenny Gromark Wennberg,1,5,Storytel Original,2018-10-09,0.9229056000000001
+9789177787075,9789177787020,Kämpa tjejer! - S1E6,Jenny Gromark Wennberg,1,6,Storytel Original,2018-10-09,0.97103270000000008
+9789177787082,9789177787020,Kämpa tjejer! - S1E7,Jenny Gromark Wennberg,1,7,Storytel Original,2018-10-09,0.9210735000000001
+9789177787099,9789177787020,Kämpa tjejer! - S1E8,Jenny Gromark Wennberg,1,8,Storytel Original,2018-10-09,0.9101006
+9789177787105,9789177787020,Kämpa tjejer! - S1E9,Jenny Gromark Wennberg,1,9,Storytel Original,2018-10-09,0.9063576000000001
+9789177787112,9789177787020,Kämpa tjejer! - S1E10,Jenny Gromark Wennberg,1,10,Storytel Original,2018-10-09,1.0002084
+9789180112550,9789180112550,Lillforsa Ladies - Del 1,Karin Janson,1,1,Storytel Original,2020-12-01,0.513973
+9789180112567,9789180112550,Lillforsa Ladies - Del 2,Karin Janson,1,2,Storytel Original,2020-12-02,0.5307771
+9789180112574,9789180112550,Lillforsa Ladies - Del 3,Karin Janson,1,3,Storytel Original,2020-12-03,0.6160584
+9789180112581,9789180112550,Lillforsa Ladies - Del 4,Karin Janson,1,4,Storytel Original,2020-12-04,0.5265219
+9789180112598,9789180112550,Lillforsa Ladies - Del 5,Karin Janson,1,5,Storytel Original,2020-12-05,0.5349338
+9789180112604,9789180112550,Lillforsa Ladies - Del 6,Karin Janson,1,6,Storytel Original,2020-12-06,0.54472470000000006
+9789180112611,9789180112550,Lillforsa Ladies - Del 7,Karin Janson,1,7,Storytel Original,2020-12-07,0.4708891
+9789180112628,9789180112550,Lillforsa Ladies - Del 8,Karin Janson,1,8,Storytel Original,2020-12-08,0.503532
+9789180112635,9789180112550,Lillforsa Ladies - Del 9,Karin Janson,1,9,Storytel Original,2020-12-09,0.5225819
+9789180112642,9789180112550,Lillforsa Ladies - Del 10,Karin Janson,1,10,Storytel Original,2020-12-10,0.5386571
+9789180112659,9789180112550,Lillforsa Ladies - Del 11,Karin Janson,1,11,Storytel Original,2020-12-11,0.5321167
+9789180112666,9789180112550,Lillforsa Ladies - Del 12,Karin Janson,1,12,Storytel Original,2020-12-12,0.47193320000000005
+9789180112673,9789180112550,Lillforsa Ladies - Del 13,Karin Janson,1,13,Storytel Original,2020-12-13,0.5444883
+9789180112680,9789180112550,Lillforsa Ladies - Del 14,Karin Janson,1,14,Storytel Original,2020-12-14,0.47516400000000003
+9789180112697,9789180112550,Lillforsa Ladies - Del 15,Karin Janson,1,15,Storytel Original,2020-12-15,0.4855262
+9789180112703,9789180112550,Lillforsa Ladies - Del 16,Karin Janson,1,16,Storytel Original,2020-12-16,0.49143620000000005
+9789180112710,9789180112550,Lillforsa Ladies - Del 17,Karin Janson,1,17,Storytel Original,2020-12-17,0.4800299
+9789180112727,9789180112550,Lillforsa Ladies - Del 18,Karin Janson,1,18,Storytel Original,2020-12-18,0.4979175
+9789180112734,9789180112550,Lillforsa Ladies - Del 19,Karin Janson,1,19,Storytel Original,2020-12-19,0.51657340000000007
+9789180112741,9789180112550,Lillforsa Ladies - Del 20,Karin Janson,1,20,Storytel Original,2020-12-20,0.5076887
+9789180112758,9789180112550,Lillforsa Ladies - Del 21,Karin Janson,1,21,Storytel Original,2020-12-21,0.5810121
+9789180112765,9789180112550,Lillforsa Ladies - Del 22,Karin Janson,1,22,Storytel Original,2020-12-22,0.47681880000000004
+9789180112772,9789180112550,Lillforsa Ladies - Del 23,Karin Janson,1,23,Storytel Original,2020-12-23,0.48785080000000003
+9789180112789,9789180112550,Lillforsa Ladies - Del 24,Karin Janson,1,24,Storytel Original,2020-12-24,0.4887964
+9789178151707,9789178151707,Majken Linds mordmysterier - S1E1,"Boel Bermann, Olle Söderström",1,1,Storytel Original,2018-03-19,1.0738864000000001
+9789178151714,9789178151707,Majken Linds mordmysterier - S1E2,"Boel Bermann, Olle Söderström",1,2,Storytel Original,2018-03-19,0.98722610000000011
+9789178151721,9789178151707,Majken Linds mordmysterier - S1E3,"Boel Bermann, Olle Söderström",1,3,Storytel Original,2018-03-19,1.0231392000000001
+9789178151738,9789178151707,Majken Linds mordmysterier - S1E4,"Boel Bermann, Olle Söderström",1,4,Storytel Original,2018-03-19,0.9146119
+9789178151745,9789178151707,Majken Linds mordmysterier - S1E5,"Boel Bermann, Olle Söderström",1,5,Storytel Original,2018-03-19,0.9385474
+9789178151752,9789178151707,Majken Linds mordmysterier - S1E6,"Boel Bermann, Olle Söderström",1,6,Storytel Original,2018-03-19,0.75959260000000006
+9789178151769,9789178151707,Majken Linds mordmysterier - S1E7,"Boel Bermann, Olle Söderström",1,7,Storytel Original,2018-03-19,1.0643319
+9789178151776,9789178151707,Majken Linds mordmysterier - S1E8,"Boel Bermann, Olle Söderström",1,8,Storytel Original,2018-03-19,0.92816550000000009
+9789178151783,9789178151707,Majken Linds mordmysterier - S1E9,"Boel Bermann, Olle Söderström",1,9,Storytel Original,2018-03-19,0.98742310000000011
+9789178151790,9789178151707,Majken Linds mordmysterier - S1E10,"Boel Bermann, Olle Söderström",1,10,Storytel Original,2018-03-19,1.0706359
+9789177352105,9789177352105,Maskeradstaden - Del 1,Maria Monciu,1,1,Storytel Original,2016-08-02,1.0799934
+9789177352112,9789177352105,Maskeradstaden - Del 2,Maria Monciu,1,2,Storytel Original,2016-08-02,0.98545310000000008
+9789177352129,9789177352105,Maskeradstaden - Del 3,Maria Monciu,1,3,Storytel Original,2016-08-02,1.1394283
+9789177352136,9789177352105,Maskeradstaden - Del 4,Maria Monciu,1,4,Storytel Original,2016-08-02,1.0107873
+9789177352143,9789177352105,Maskeradstaden - Del 5,Maria Monciu,1,5,Storytel Original,2016-08-02,1.0065124
+9789177352150,9789177352105,Maskeradstaden - Del 6,Maria Monciu,1,6,Storytel Original,2016-08-02,0.9976868000000001
+9789177352167,9789177352105,Maskeradstaden - Del 7,Maria Monciu,1,7,Storytel Original,2016-08-02,0.906397
+9789177352174,9789177352105,Maskeradstaden - Del 8,Maria Monciu,1,8,Storytel Original,2016-08-02,0.8337828
+9789177352181,9789177352105,Maskeradstaden - Del 9,Maria Monciu,1,9,Storytel Original,2016-08-02,0.9366759
+9789177352198,9789177352105,Maskeradstaden - Del 10,Maria Monciu,1,10,Storytel Original,2016-08-02,0.9707766000000001
+9789178393787,9789178393787,Syrran – Mörk framtid – Del 1,Markus Sköld,1,1,Storytel Kids,2018-10-26,0.5830018
+9789178393794,9789178393787,Streamaren – Mörk framtid – Del 2,Boel Bermann,1,2,Storytel Kids,2018-10-26,0.2727662
+9789178393800,9789178393787,Nästan som jag – Mörk framtid – Del 3,Markus Sköld,1,3,Storytel Kids,2018-10-26,0.61529010000000006
+9789178393817,9789178393787,Exet – Mörk framtid – Del 4,Boel Bermann,1,4,Storytel Kids,2018-10-26,0.23561200000000002
+9789178393824,9789178393787,Nedstängd – Mörk framtid – Del 5,Markus Sköld,1,5,Storytel Kids,2018-10-26,0.64893770000000006
+9789178393831,9789178393787,Felicia – Mörk framtid – Del 6,Erik Odeldahl,1,6,Storytel Kids,2018-10-26,0.5014241
+9789178393848,9789178393787,Mvh Du – Mörk framtid – Del 7,Markus Sköld,1,7,Storytel Kids,2018-10-26,0.332733
+9789178393855,9789178393787,"Är du kompatibel, lille vän? – Mörk framtid – Del 8",Erik Odeldahl,1,8,Storytel Kids,2018-10-26,0.6188361
+9789178393862,9789178393787,Svep. Hjärta. Chatta. Dejt – Mörk framtid – Del 9,Boel Bermann,1,9,Storytel Kids,2018-10-26,0.2575972
+9789178393879,9789178393787,Skogsland – Mörk framtid – Del 10,Markus Sköld,1,10,Storytel Kids,2018-10-26,0.5250641
+9789178015955,9789178015955,Mörkt arv - S1E1,Arianna Bommarco,1,1,Storytel Original,2017-11-28,0.9862214
+9789178015962,9789178015955,Mörkt arv - S1E2,Arianna Bommarco,1,2,Storytel Original,2017-11-28,0.885121
+9789178015979,9789178015955,Mörkt arv - S1E3,Arianna Bommarco,1,3,Storytel Original,2017-11-28,0.9298203
+9789178015986,9789178015955,Mörkt arv - S1E4,Arianna Bommarco,1,4,Storytel Original,2017-11-28,0.8722569
+9789178015993,9789178015955,Mörkt arv - S1E5,Arianna Bommarco,1,5,Storytel Original,2017-11-28,0.972195
+9789178016006,9789178015955,Mörkt arv - S1E6,Arianna Bommarco,1,6,Storytel Original,2017-11-28,0.8899278
+9789178016013,9789178015955,Mörkt arv - S1E7,Arianna Bommarco,1,7,Storytel Original,2017-11-28,0.89140530000000007
+9789178016020,9789178015955,Mörkt arv - S1E8,Arianna Bommarco,1,8,Storytel Original,2017-11-28,0.8833086
+9789178016037,9789178015955,Mörkt arv - S1E9,Arianna Bommarco,1,9,Storytel Original,2017-11-28,0.87123250000000008
+9789178016044,9789178015955,Mörkt arv - S1E10,Arianna Bommarco,1,10,Storytel Original,2017-11-28,0.9110856
+9789178412402,9789178412402,Nina i Granbergsbyn - S1E1,Anna Holmström Degerman,1,1,Storytel Original,2018-11-06,1.0204797
+9789178412419,9789178412402,Nina i Granbergsbyn - S1E2,Anna Holmström Degerman,1,2,Storytel Original,2018-11-06,0.98559100000000011
+9789178412426,9789178412402,Nina i Granbergsbyn - S1E3,Anna Holmström Degerman,1,3,Storytel Original,2018-11-06,1.0316102
+9789178412433,9789178412402,Nina i Granbergsbyn - S1E4,Anna Holmström Degerman,1,4,Storytel Original,2018-11-06,0.91181450000000008
+9789178412440,9789178412402,Nina i Granbergsbyn - S1E5,Anna Holmström Degerman,1,5,Storytel Original,2018-11-06,0.9166016
+9789178412457,9789178412402,Nina i Granbergsbyn - S1E6,Anna Holmström Degerman,1,6,Storytel Original,2018-11-06,1.045873
+9789178412464,9789178412402,Nina i Granbergsbyn - S1E7,Anna Holmström Degerman,1,7,Storytel Original,2018-11-06,0.9907327
+9789178412471,9789178412402,Nina i Granbergsbyn - S1E8,Anna Holmström Degerman,1,8,Storytel Original,2018-11-06,0.9735346
+9789178412488,9789178412402,Nina i Granbergsbyn - S1E9,Anna Holmström Degerman,1,9,Storytel Original,2018-11-06,1.0151213000000001
+9789178412495,9789178412402,Nina i Granbergsbyn - S1E10,Anna Holmström Degerman,1,10,Storytel Original,2018-11-06,1.022824
+9789179076306,9789179076306,Nina i Granbergsbyn - S2E1,Anna Holmström Degerman,2,1,Storytel Original,2019-11-13,0.97321940000000007
+9789179076313,9789179076306,Nina i Granbergsbyn - S2E2,Anna Holmström Degerman,2,2,Storytel Original,2019-11-13,0.8431206
+9789179076320,9789179076306,Nina i Granbergsbyn - S2E3,Anna Holmström Degerman,2,3,Storytel Original,2019-11-13,0.9468214
+9789179076337,9789179076306,Nina i Granbergsbyn - S2E4,Anna Holmström Degerman,2,4,Storytel Original,2019-11-13,0.8735374
+9789179076344,9789179076306,Nina i Granbergsbyn - S2E5,Anna Holmström Degerman,2,5,Storytel Original,2019-11-13,0.9637831
+9789179076351,9789179076306,Nina i Granbergsbyn - S2E6,Anna Holmström Degerman,2,6,Storytel Original,2019-11-13,0.9550954
+9789179076368,9789179076306,Nina i Granbergsbyn - S2E7,Anna Holmström Degerman,2,7,Storytel Original,2019-11-13,0.8814765
+9789179076375,9789179076306,Nina i Granbergsbyn - S2E8,Anna Holmström Degerman,2,8,Storytel Original,2019-11-13,0.9667578
+9789179076382,9789179076306,Nina i Granbergsbyn - S2E9,Anna Holmström Degerman,2,9,Storytel Original,2019-11-13,0.85716670000000006
+9789179076399,9789179076306,Nina i Granbergsbyn - S2E10,Anna Holmström Degerman,2,10,Storytel Original,2019-11-13,0.8678441
+9789177357599,9789177357599,Ryggdjur - Del 1,Hanna von Corswant,1,1,Storytel Original,2016-11-08,1.0105903
+9789177357605,9789177357599,Ryggdjur - Del 2,Hanna von Corswant,1,2,Storytel Original,2016-11-08,0.9090565
+9789177357612,9789177357599,Ryggdjur - Del 3,Hanna von Corswant,1,3,Storytel Original,2016-11-08,0.9176851
+9789177357629,9789177357599,Ryggdjur - Del 4,Hanna von Corswant,1,4,Storytel Original,2016-11-08,0.9002112000000001
+9789177357636,9789177357599,Ryggdjur - Del 5,Hanna von Corswant,1,5,Storytel Original,2016-11-08,0.88124010000000008
+9789177357643,9789177357599,Ryggdjur - Del 6,Hanna von Corswant,1,6,Storytel Original,2016-11-08,0.8588806
+9789177357650,9789177357599,Ryggdjur - Del 7,Hanna von Corswant,1,7,Storytel Original,2016-11-08,0.87871850000000007
+9789177357667,9789177357599,Ryggdjur - Del 8,Hanna von Corswant,1,8,Storytel Original,2016-11-08,0.8891004
+9789177357674,9789177357599,Ryggdjur - Del 9,Hanna von Corswant,1,9,Storytel Original,2016-11-08,0.9373063
+9789177357681,9789177357599,Ryggdjur - Del 10,Hanna von Corswant,1,10,Storytel Original,2016-11-08,0.9074805
+9789178608546,9789178608546,Saknad - S1E1,Lone Theils,1,1,Storytel Original,2019-09-16,0.9918162
+9789178608553,9789178608546,Saknad - S1E2,Lone Theils,1,2,Storytel Original,2019-09-16,0.8928237
+9789178608560,9789178608546,Saknad - S1E3,Lone Theils,1,3,Storytel Original,2019-09-16,0.859905
+9789178608577,9789178608546,Saknad - S1E4,Lone Theils,1,4,Storytel Original,2019-09-16,0.9190838
+9789178608584,9789178608546,Saknad - S1E5,Lone Theils,1,5,Storytel Original,2019-09-16,0.95324360000000008
+9789178608591,9789178608546,Saknad - S1E6,Lone Theils,1,6,Storytel Original,2019-09-16,0.9045058
+9789178608607,9789178608546,Saknad - S1E7,Lone Theils,1,7,Storytel Original,2019-09-16,0.8595701
+9789178608614,9789178608546,Saknad - S1E8,Lone Theils,1,8,Storytel Original,2019-09-16,0.9274169000000001
+9789178608621,9789178608546,Saknad - S1E9,Lone Theils,1,9,Storytel Original,2019-09-16,0.94764880000000007
+9789178608638,9789178608546,Saknad - S1E10,Lone Theils,1,10,Storytel Original,2019-09-16,1.0201842
+9789177356899,9789177356899,Samtal pågår - Del 1,"Henrik Karlsson, Tiina Nevala",1,1,Storytel Original,2016-10-11,0.8069514000000001
+9789177356905,9789177356899,Samtal pågår - Del 2,"Henrik Karlsson, Tiina Nevala",1,2,Storytel Original,2016-10-11,0.81315690000000007
+9789177356912,9789177356899,Samtal pågår - Del 3,"Henrik Karlsson, Tiina Nevala",1,3,Storytel Original,2016-10-11,0.7607943
+9789177356929,9789177356899,Samtal pågår - Del 4,"Henrik Karlsson, Tiina Nevala",1,4,Storytel Original,2016-10-11,0.7837448
+9789177356936,9789177356899,Samtal pågår - Del 5,"Henrik Karlsson, Tiina Nevala",1,5,Storytel Original,2016-10-11,0.79838190000000009
+9789177356943,9789177356899,Samtal pågår - Del 6,"Henrik Karlsson, Tiina Nevala",1,6,Storytel Original,2016-10-11,0.8197367000000001
+9789177356950,9789177356899,Samtal pågår - Del 7,"Henrik Karlsson, Tiina Nevala",1,7,Storytel Original,2016-10-11,0.8007853
+9789177356967,9789177356899,Samtal pågår - Del 8,"Henrik Karlsson, Tiina Nevala",1,8,Storytel Original,2016-10-11,0.8072272
+9789177356974,9789177356899,Samtal pågår - Del 9,"Henrik Karlsson, Tiina Nevala",1,9,Storytel Original,2016-10-11,0.86230840000000009
+9789177356981,9789177356899,Samtal pågår - Del 10,"Henrik Karlsson, Tiina Nevala",1,10,Storytel Original,2016-10-11,0.8120537000000001
+9789178390007,9789178390007,Del 1 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,1,Storytel Kids,2018-05-15,0.567951
+9789178390014,9789178390007,Del 2 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,2,Storytel Kids,2018-05-15,0.5601892
+9789178390021,9789178390007,Del 3 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,3,Storytel Kids,2018-05-15,0.5353278
+9789178390038,9789178390007,Del 4 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,4,Storytel Kids,2018-05-15,0.59779650000000006
+9789178390045,9789178390007,Del 5 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,5,Storytel Kids,2018-05-15,0.6301833
+9789178390052,9789178390007,Del 6 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,6,Storytel Kids,2018-05-15,0.57193040000000006
+9789178390069,9789178390007,Del 7 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,7,Storytel Kids,2018-05-15,0.5483298
+9789178390076,9789178390007,Del 8 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,8,Storytel Kids,2018-05-15,0.50235000000000007
+9789178390083,9789178390007,Del 9 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,9,Storytel Kids,2018-05-15,0.4308193
+9789178390090,9789178390007,Del 10 – Sanningen om Ester Gråbergs försvinnande,Moa Eriksson Sandberg,1,10,Storytel Kids,2018-05-15,0.51088010000000006
+9789178151103,9789178151103,Sekten - S1E1,Maria Nordström,1,1,Storytel Original,2019-03-27,1.0201448
+9789178151110,9789178151103,Sekten - S1E2,Maria Nordström,1,2,Storytel Original,2019-03-27,0.9435118
+9789178151127,9789178151103,Sekten - S1E3,Maria Nordström,1,3,Storytel Original,2019-03-27,0.95566670000000009
+9789178151134,9789178151103,Sekten - S1E4,Maria Nordström,1,4,Storytel Original,2019-03-27,0.9092141
+9789178151141,9789178151103,Sekten - S1E5,Maria Nordström,1,5,Storytel Original,2019-03-27,0.8842345
+9789178151158,9789178151103,Sekten - S1E6,Maria Nordström,1,6,Storytel Original,2019-03-27,0.97727760000000008
+9789178151165,9789178151103,Sekten - S1E7,Maria Nordström,1,7,Storytel Original,2019-03-27,1.000563
+9789178151172,9789178151103,Sekten - S1E8,Maria Nordström,1,8,Storytel Original,2019-03-27,1.0144121000000001
+9789178151189,9789178151103,Sekten - S1E9,Maria Nordström,1,9,Storytel Original,2019-03-27,0.9373063
+9789178151196,9789178151103,Sekten - S1E10,Maria Nordström,1,10,Storytel Original,2019-03-27,1.0084627000000002
+9789177610410,9789177610410,Sofia Tholls kabinett - S1E1,Elisabeth Östnäs,1,1,Storytel Original,2017-06-13,1.0250895
+9789177610427,9789177610410,Sofia Tholls kabinett - S1E2,Elisabeth Östnäs,1,2,Storytel Original,2017-06-13,1.0069261
+9789177610434,9789177610410,Sofia Tholls kabinett - S1E3,Elisabeth Östnäs,1,3,Storytel Original,2017-06-13,0.9117357
+9789177610441,9789177610410,Sofia Tholls kabinett - S1E4,Elisabeth Östnäs,1,4,Storytel Original,2017-06-13,0.9978641
+9789177610458,9789177610410,Sofia Tholls kabinett - S1E5,Elisabeth Östnäs,1,5,Storytel Original,2017-06-13,0.9743226
+9789177610465,9789177610410,Sofia Tholls kabinett - S1E6,Elisabeth Östnäs,1,6,Storytel Original,2017-06-13,0.99081150000000007
+9789177610472,9789177610410,Sofia Tholls kabinett - S1E7,Elisabeth Östnäs,1,7,Storytel Original,2017-06-13,0.99339220000000006
+9789177610489,9789177610410,Sofia Tholls kabinett - S1E8,Elisabeth Östnäs,1,8,Storytel Original,2017-06-13,0.9352772
+9789177610496,9789177610410,Sofia Tholls kabinett - S1E9,Elisabeth Östnäs,1,9,Storytel Original,2017-06-13,0.9347256
+9789177610502,9789177610410,Sofia Tholls kabinett - S1E10,Elisabeth Östnäs,1,10,Storytel Original,2017-06-13,0.88326920000000009
+9789178171132,9789178171132,Stackars Birger - S1E1,Martina Montelius,1,1,Storytel Original,2018-09-18,1.0198493
+9789178171149,9789178171132,Stackars Birger - S1E2,Martina Montelius,1,2,Storytel Original,2018-09-18,0.9079139
+9789178171156,9789178171132,Stackars Birger - S1E3,Martina Montelius,1,3,Storytel Original,2018-09-18,0.9705796000000001
+9789178171163,9789178171132,Stackars Birger - S1E4,Martina Montelius,1,4,Storytel Original,2018-09-18,0.95050530000000011
+9789178171170,9789178171132,Stackars Birger - S1E5,Martina Montelius,1,5,Storytel Original,2018-09-18,0.78595120000000007
+9789178171187,9789178171132,Stackars Birger - S1E6,Martina Montelius,1,6,Storytel Original,2018-09-18,0.8936117
+9789178171194,9789178171132,Stackars Birger - S1E7,Martina Montelius,1,7,Storytel Original,2018-09-18,0.7930038
+9789178171200,9789178171132,Stackars Birger - S1E8,Martina Montelius,1,8,Storytel Original,2018-09-18,0.9657531
+9789178171217,9789178171132,Stackars Birger - S1E9,Martina Montelius,1,9,Storytel Original,2018-09-18,0.96181310000000009
+9789178171224,9789178171132,Stackars Birger - S1E10,Martina Montelius,1,10,Storytel Original,2018-09-18,0.91668040000000006
+9789177355649,9789177355649,Stockholm Psycho - Del 1,Anna Bågstam,1,1,Storytel Original,2016-10-25,0.9941999
+9789177355656,9789177355649,Stockholm Psycho - Del 2,Anna Bågstam,1,2,Storytel Original,2016-10-25,1.025188
+9789177355663,9789177355649,Stockholm Psycho - Del 3,Anna Bågstam,1,3,Storytel Original,2016-10-25,0.9478655
+9789177355670,9789177355649,Stockholm Psycho - Del 4,Anna Bågstam,1,4,Storytel Original,2016-10-25,1.0749896
+9789177355687,9789177355649,Stockholm Psycho - Del 5,Anna Bågstam,1,5,Storytel Original,2016-10-25,1.0957534
+9789177355694,9789177355649,Stockholm Psycho - Del 6,Anna Bågstam,1,6,Storytel Original,2016-10-25,1.0259957
+9789177355700,9789177355649,Stockholm Psycho - Del 7,Anna Bågstam,1,7,Storytel Original,2016-10-25,1.0355896
+9789177355717,9789177355649,Stockholm Psycho - Del 8,Anna Bågstam,1,8,Storytel Original,2016-10-25,1.0136438
+9789177355724,9789177355649,Stockholm Psycho - Del 9,Anna Bågstam,1,9,Storytel Original,2016-10-25,1.0697494
+9789177355731,9789177355649,Stockholm Psycho - Del 10,Anna Bågstam,1,10,Storytel Original,2016-10-25,1.1481751
+9789178391707,9789178391707,Storm - Del 1,Karina Berg Johansson,1,1,Storytel Original,2020-07-22,0.6683422
+9789178391714,9789178391707,Storm - Del 2,Karina Berg Johansson,1,2,Storytel Original,2020-07-22,0.6371177
+9789178391721,9789178391707,Storm - Del 3,Karina Berg Johansson,1,3,Storytel Original,2020-07-22,0.6929475
+9789178391738,9789178391707,Storm - Del 4,Karina Berg Johansson,1,4,Storytel Original,2020-07-22,0.490333
+9789178391745,9789178391707,Storm - Del 5,Karina Berg Johansson,1,5,Storytel Original,2020-07-22,0.5118848
+9789178391752,9789178391707,Storm - Del 6,Karina Berg Johansson,1,6,Storytel Original,2020-07-22,0.49500190000000005
+9789178391769,9789178391707,Storm - Del 7,Karina Berg Johansson,1,7,Storytel Original,2020-07-22,0.4827091
+9789178391776,9789178391707,Storm - Del 8,Karina Berg Johansson,1,8,Storytel Original,2020-07-22,0.33318610000000004
+9789178391783,9789178391707,Storm - Del 9,Karina Berg Johansson,1,9,Storytel Original,2020-07-22,0.50061640000000007
+9789178391790,9789178391707,Storm - Del 10,Karina Berg Johansson,1,10,Storytel Original,2020-07-22,0.56235620000000008
+9789177615309,9789177615309,Summer Karlsson - S1E1,Johanna Nilsson,1,1,Storytel Original,2017-03-07,0.84203710000000009
+9789177615316,9789177615309,Summer Karlsson - S1E2,Johanna Nilsson,1,2,Storytel Original,2017-03-07,0.89264640000000006
+9789177615323,9789177615309,Summer Karlsson - S1E3,Johanna Nilsson,1,3,Storytel Original,2017-03-07,0.9127010000000001
+9789177615330,9789177615309,Summer Karlsson - S1E4,Johanna Nilsson,1,4,Storytel Original,2017-03-07,1.0855291
+9789177615347,9789177615309,Summer Karlsson - S1E5,Johanna Nilsson,1,5,Storytel Original,2017-03-07,1.0082066
+9789177615354,9789177615309,Summer Karlsson - S1E6,Johanna Nilsson,1,6,Storytel Original,2017-03-07,1.1033379
+9789177615361,9789177615309,Summer Karlsson - S1E7,Johanna Nilsson,1,7,Storytel Original,2017-03-07,1.1743367
+9789177615378,9789177615309,Summer Karlsson - S1E8,Johanna Nilsson,1,8,Storytel Original,2017-03-07,1.0499706
+9789177615385,9789177615309,Summer Karlsson - S1E9,Johanna Nilsson,1,9,Storytel Original,2017-03-07,1.1716575
+9789177615392,9789177615309,Summer Karlsson - S1E10,Johanna Nilsson,1,10,Storytel Original,2017-03-07,1.2744324
+9789178014118,9789178014118,Summer Karlsson - S2E1,Johanna Nilsson,2,1,Storytel Original,2017-10-24,0.9697128
+9789178014125,9789178014118,Summer Karlsson - S2E2,Johanna Nilsson,2,2,Storytel Original,2017-10-24,0.97619410000000006
+9789178014132,9789178014118,Summer Karlsson - S2E3,Johanna Nilsson,2,3,Storytel Original,2017-10-24,0.9919147
+9789178014149,9789178014118,Summer Karlsson - S2E4,Johanna Nilsson,2,4,Storytel Original,2017-10-24,1.1546761
+9789178014156,9789178014118,Summer Karlsson - S2E5,Johanna Nilsson,2,5,Storytel Original,2017-10-24,0.92341780000000007
+9789178014163,9789178014118,Summer Karlsson - S2E6,Johanna Nilsson,2,6,Storytel Original,2017-10-24,0.98708820000000008
+9789178014170,9789178014118,Summer Karlsson - S2E7,Johanna Nilsson,2,7,Storytel Original,2017-10-24,1.0249713
+9789178014187,9789178014118,Summer Karlsson - S2E8,Johanna Nilsson,2,8,Storytel Original,2017-10-24,0.9496582
+9789178014194,9789178014118,Summer Karlsson - S2E9,Johanna Nilsson,2,9,Storytel Original,2017-10-24,1.0480203000000001
+9789178014200,9789178014118,Summer Karlsson - S2E10,Johanna Nilsson,2,10,Storytel Original,2017-10-24,0.8605945
+9789178158485,9789178158485,Summer Karlsson - S3E1,Johanna Nilsson,3,1,Storytel Original,2018-09-25,0.9685308
+9789178158492,9789178158485,Summer Karlsson - S3E2,Johanna Nilsson,3,2,Storytel Original,2018-09-25,0.68494930000000009
+9789178158508,9789178158485,Summer Karlsson - S3E3,Johanna Nilsson,3,3,Storytel Original,2018-09-25,0.8304141
+9789178158515,9789178158485,Summer Karlsson - S3E4,Johanna Nilsson,3,4,Storytel Original,2018-09-25,0.8802157
+9789178158522,9789178158485,Summer Karlsson - S3E5,Johanna Nilsson,3,5,Storytel Original,2018-09-25,0.9272002
+9789178158539,9789178158485,Summer Karlsson - S3E6,Johanna Nilsson,3,6,Storytel Original,2018-09-25,0.8803339
+9789178158546,9789178158485,Summer Karlsson - S3E7,Johanna Nilsson,3,7,Storytel Original,2018-09-25,0.8315567
+9789178158553,9789178158485,Summer Karlsson - S3E8,Johanna Nilsson,3,8,Storytel Original,2018-09-25,0.81181730000000007
+9789178158560,9789178158485,Summer Karlsson - S3E9,Johanna Nilsson,3,9,Storytel Original,2018-09-25,0.8023416000000001
+9789178158577,9789178158485,Summer Karlsson - S3E10,Johanna Nilsson,3,10,Storytel Original,2018-09-25,0.7495653
+9789177350309,9789177350309,Svart stjärna - S1E1,"Jesper Ersgård, Joakim Ersgård",1,1,Storytel Original,2016-07-05,1.4957225
+9789177350316,9789177350309,Svart stjärna - S1E2,"Jesper Ersgård, Joakim Ersgård",1,2,Storytel Original,2016-07-05,0.8781078000000001
+9789177350323,9789177350309,Svart stjärna - S1E3,"Jesper Ersgård, Joakim Ersgård",1,3,Storytel Original,2016-07-05,0.8463317
+9789177350330,9789177350309,Svart stjärna - S1E4,"Jesper Ersgård, Joakim Ersgård",1,4,Storytel Original,2016-07-05,0.9041118
+9789177350347,9789177350309,Svart stjärna - S1E5,"Jesper Ersgård, Joakim Ersgård",1,5,Storytel Original,2016-07-05,0.9000339
+9789177350354,9789177350309,Svart stjärna - S1E6,"Jesper Ersgård, Joakim Ersgård",1,6,Storytel Original,2016-07-05,0.8911886
+9789177350361,9789177350309,Svart stjärna - S1E7,"Jesper Ersgård, Joakim Ersgård",1,7,Storytel Original,2016-07-05,0.86534220000000006
+9789177350378,9789177350309,Svart stjärna - S1E8,"Jesper Ersgård, Joakim Ersgård",1,8,Storytel Original,2016-07-05,0.869361
+9789177350385,9789177350309,Svart stjärna - S1E9,"Jesper Ersgård, Joakim Ersgård",1,9,Storytel Original,2016-07-05,0.9171335
+9789177350392,9789177350309,Svart stjärna - S1E10,"Jesper Ersgård, Joakim Ersgård",1,10,Storytel Original,2016-07-05,0.87980200000000008
+9789177359722,9789177359722,Svart stjärna - S2E1,"Jesper Ersgård, Joakim Ersgård",2,1,Storytel Original,2016-12-13,1.0858049
+9789177359739,9789177359722,Svart stjärna - S2E2,"Jesper Ersgård, Joakim Ersgård",2,2,Storytel Original,2016-12-13,1.1188418
+9789177359746,9789177359722,Svart stjärna - S2E3,"Jesper Ersgård, Joakim Ersgård",2,3,Storytel Original,2016-12-13,0.91147960000000006
+9789177359753,9789177359722,Svart stjärna - S2E4,"Jesper Ersgård, Joakim Ersgård",2,4,Storytel Original,2016-12-13,0.93332690000000007
+9789177359760,9789177359722,Svart stjärna - S2E5,"Jesper Ersgård, Joakim Ersgård",2,5,Storytel Original,2016-12-13,0.89784720000000007
+9789177359777,9789177359722,Svart stjärna - S2E6,"Jesper Ersgård, Joakim Ersgård",2,6,Storytel Original,2016-12-13,0.9747757
+9789177359784,9789177359722,Svart stjärna - S2E7,"Jesper Ersgård, Joakim Ersgård",2,7,Storytel Original,2016-12-13,0.92629400000000006
+9789177359791,9789177359722,Svart stjärna - S2E8,"Jesper Ersgård, Joakim Ersgård",2,8,Storytel Original,2016-12-13,0.90616060000000009
+9789177359807,9789177359722,Svart stjärna - S2E9,"Jesper Ersgård, Joakim Ersgård",2,9,Storytel Original,2016-12-13,0.9357894000000001
+9789177359814,9789177359722,Svart stjärna - S2E10,"Jesper Ersgård, Joakim Ersgård",2,10,Storytel Original,2016-12-13,0.9370305000000001
+9789177611981,9789177611981,Svart stjärna - S3E1,"Jesper Ersgård, Joakim Ersgård",3,1,Storytel Original,2017-07-18,0.86027930000000008
+9789177611998,9789177611981,Svart stjärna - S3E2,"Jesper Ersgård, Joakim Ersgård",3,2,Storytel Original,2017-07-18,0.85216290000000006
+9789177612001,9789177611981,Svart stjärna - S3E3,"Jesper Ersgård, Joakim Ersgård",3,3,Storytel Original,2017-07-18,1.0331271
+9789177612018,9789177611981,Svart stjärna - S3E4,"Jesper Ersgård, Joakim Ersgård",3,4,Storytel Original,2017-07-18,0.9062
+9789177612025,9789177611981,Svart stjärna - S3E5,"Jesper Ersgård, Joakim Ersgård",3,5,Storytel Original,2017-07-18,0.86280090000000009
+9789177612032,9789177611981,Svart stjärna - S3E6,"Jesper Ersgård, Joakim Ersgård",3,6,Storytel Original,2017-07-18,0.8571864
+9789177612049,9789177611981,Svart stjärna - S3E7,"Jesper Ersgård, Joakim Ersgård",3,7,Storytel Original,2017-07-18,0.89625150000000009
+9789177612056,9789177611981,Svart stjärna - S3E8,"Jesper Ersgård, Joakim Ersgård",3,8,Storytel Original,2017-07-18,0.8499959
+9789177612063,9789177611981,Svart stjärna - S3E9,"Jesper Ersgård, Joakim Ersgård",3,9,Storytel Original,2017-07-18,0.8679032000000001
+9789177612070,9789177611981,Svart stjärna - S3E10,"Jesper Ersgård, Joakim Ersgård",3,10,Storytel Original,2017-07-18,0.97672600000000009
+9789177353287,9789177353287,Tick Tack - Del 1,Leffe Grimwalker,1,1,Storytel Original,2016-08-16,0.79631340000000006
+9789177353294,9789177353287,Tick Tack - Del 2,Leffe Grimwalker,1,2,Storytel Original,2016-08-16,0.8985761000000001
+9789177353300,9789177353287,Tick Tack - Del 3,Leffe Grimwalker,1,3,Storytel Original,2016-08-16,0.869558
+9789177353317,9789177353287,Tick Tack - Del 4,Leffe Grimwalker,1,4,Storytel Original,2016-08-16,0.87702430000000009
+9789177353324,9789177353287,Tick Tack - Del 5,Leffe Grimwalker,1,5,Storytel Original,2016-08-16,0.8538571
+9789177353331,9789177353287,Tick Tack - Del 6,Leffe Grimwalker,1,6,Storytel Original,2016-08-16,0.8648300000000001
+9789177353348,9789177353287,Tick Tack - Del 7,Leffe Grimwalker,1,7,Storytel Original,2016-08-16,0.8450906
+9789177353355,9789177353287,Tick Tack - Del 8,Leffe Grimwalker,1,8,Storytel Original,2016-08-16,0.86217050000000006
+9789177353362,9789177353287,Tick Tack - Del 9,Leffe Grimwalker,1,9,Storytel Original,2016-08-16,0.8486760000000001
+9789177353379,9789177353287,Tick Tack - Del 10,Leffe Grimwalker,1,10,Storytel Original,2016-08-16,0.88683490000000009
+9789177358275,9789177358275,Tick Tack - S2E1,Leffe Grimwalker,2,1,Storytel Original,2017-03-28,0.9902796
+9789177358282,9789177358275,Tick Tack - S2E2,Leffe Grimwalker,2,2,Storytel Original,2017-03-28,0.9911267
+9789177358299,9789177358275,Tick Tack - S2E3,Leffe Grimwalker,2,3,Storytel Original,2017-03-28,1.0015086
+9789177358305,9789177358275,Tick Tack - S2E4,Leffe Grimwalker,2,4,Storytel Original,2017-03-28,0.99784440000000008
+9789177358312,9789177358275,Tick Tack - S2E5,Leffe Grimwalker,2,5,Storytel Original,2017-03-28,0.99705640000000006
+9789177358329,9789177358275,Tick Tack - S2E6,Leffe Grimwalker,2,6,Storytel Original,2017-03-28,0.9990067
+9789177358336,9789177358275,Tick Tack - S2E7,Leffe Grimwalker,2,7,Storytel Original,2017-03-28,0.99561830000000007
+9789177358343,9789177358275,Tick Tack - S2E8,Leffe Grimwalker,2,8,Storytel Original,2017-03-28,0.9985142
+9789177358350,9789177358275,Tick Tack - S2E9,Leffe Grimwalker,2,9,Storytel Original,2017-03-28,1.0031043
+9789177358367,9789177358275,Tick Tack - S2E10,Leffe Grimwalker,2,10,Storytel Original,2017-03-28,1.0527483
+9789177919780,9789177919780,Tick Tack - S3E1,Leffe Grimwalker,3,1,Storytel Original,2018-07-17,1.0188446
+9789177919797,9789177919780,Tick Tack - S3E2,Leffe Grimwalker,3,2,Storytel Original,2018-07-17,1.0539500000000002
+9789177919803,9789177919780,Tick Tack - S3E3,Leffe Grimwalker,3,3,Storytel Original,2018-07-17,1.0072807000000001
+9789177919810,9789177919780,Tick Tack - S3E4,Leffe Grimwalker,3,4,Storytel Original,2018-07-17,1.0404358
+9789177919827,9789177919780,Tick Tack - S3E5,Leffe Grimwalker,3,5,Storytel Original,2018-07-17,1.0589538
+9789177919834,9789177919780,Tick Tack - S3E6,Leffe Grimwalker,3,6,Storytel Original,2018-07-17,0.99630780000000008
+9789177919841,9789177919780,Tick Tack - S3E7,Leffe Grimwalker,3,7,Storytel Original,2018-07-17,0.99947950000000008
+9789177919858,9789177919780,Tick Tack - S3E8,Leffe Grimwalker,3,8,Storytel Original,2018-07-17,1.0969354
+9789177919865,9789177919780,Tick Tack - S3E9,Leffe Grimwalker,3,9,Storytel Original,2018-07-17,1.0690796
+9789177919872,9789177919780,Tick Tack - S3E10,Leffe Grimwalker,3,10,Storytel Original,2018-07-17,1.2120228000000002
+9789179076504,9789179076504,Utpost - E1,Dmitry Glukhovsky,1,1,Storytel Original,2019-09-25,0.8472576
+9789179076511,9789179076504,Utpost - E2,Dmitry Glukhovsky,1,2,Storytel Original,2019-09-25,1.0575354000000001
+9789179076528,9789179076504,Utpost - E3,Dmitry Glukhovsky,1,3,Storytel Original,2019-09-25,0.9143755
+9789179076535,9789179076504,Utpost - E4,Dmitry Glukhovsky,1,4,Storytel Original,2019-09-25,1.0073792000000001
+9789179076542,9789179076504,Utpost - E5,Dmitry Glukhovsky,1,5,Storytel Original,2019-09-25,1.0944729
+9789179076559,9789179076504,Utpost - E6,Dmitry Glukhovsky,1,6,Storytel Original,2019-09-25,1.1558778
+9789179076566,9789179076504,Utpost - E7,Dmitry Glukhovsky,1,7,Storytel Original,2019-09-25,1.0720149
+9789179076573,9789179076504,Utpost - E8,Dmitry Glukhovsky,1,8,Storytel Original,2019-09-25,1.1809165000000001
+9789179076580,9789179076504,Utpost - E9,Dmitry Glukhovsky,1,9,Storytel Original,2019-09-25,0.8824221000000001
+9789179076597,9789179076504,Utpost - E10,Dmitry Glukhovsky,1,10,Storytel Original,2019-09-25,1.2423608000000002
+9789177350101,9789177350101,Vargland - Del 1,Björn Olofsson,1,1,Storytel Original,2016-06-21,0.8607127
+9789177350118,9789177350101,Vargland - Del 2,Björn Olofsson,1,2,Storytel Original,2016-06-21,0.87276910000000008
+9789177350125,9789177350101,Vargland - Del 3,Björn Olofsson,1,3,Storytel Original,2016-06-21,0.9485747000000001
+9789177350132,9789177350101,Vargland - Del 4,Björn Olofsson,1,4,Storytel Original,2016-06-21,0.901275
+9789177350149,9789177350101,Vargland - Del 5,Björn Olofsson,1,5,Storytel Original,2016-06-21,0.89150380000000007
+9789177350156,9789177350101,Vargland - Del 6,Björn Olofsson,1,6,Storytel Original,2016-06-21,0.8873077
+9789177350163,9789177350101,Vargland - Del 7,Björn Olofsson,1,7,Storytel Original,2016-06-21,0.8429039
+9789177350170,9789177350101,Vargland - Del 8,Björn Olofsson,1,8,Storytel Original,2016-06-21,0.84635140000000009
+9789177350187,9789177350101,Vargland - Del 9,Björn Olofsson,1,9,Storytel Original,2016-06-21,0.88208720000000007
+9789177350194,9789177350101,Vargland - Del 10,Björn Olofsson,1,10,Storytel Original,2016-06-21,0.85972770000000009
+9789177912941,9789177912941,Vargland - S2E1,Björn Olofsson,2,1,Storytel Original,2017-08-08,0.91687740000000006
+9789177912958,9789177912941,Vargland - S2E2,Björn Olofsson,2,2,Storytel Original,2017-08-08,0.850449
+9789177912965,9789177912941,Vargland - S2E3,Björn Olofsson,2,3,Storytel Original,2017-08-08,0.845327
+9789177912972,9789177912941,Vargland - S2E4,Björn Olofsson,2,4,Storytel Original,2017-08-08,0.8527145
+9789177912989,9789177912941,Vargland - S2E5,Björn Olofsson,2,5,Storytel Original,2017-08-08,0.85027170000000007
+9789177912996,9789177912941,Vargland - S2E6,Björn Olofsson,2,6,Storytel Original,2017-08-08,0.866603
+9789177913009,9789177912941,Vargland - S2E7,Björn Olofsson,2,7,Storytel Original,2017-08-08,0.8730055000000001
+9789177913016,9789177912941,Vargland - S2E8,Björn Olofsson,2,8,Storytel Original,2017-08-08,0.8572258
+9789177913023,9789177912941,Vargland - S2E9,Björn Olofsson,2,9,Storytel Original,2017-08-08,0.8279122000000001
+9789177913030,9789177912941,Vargland - S2E10,Björn Olofsson,2,10,Storytel Original,2017-08-08,0.83689540000000007
+9789177357698,9789177357698,Vespers vidunderliga äventyr - Del 1,Ida Kjellin,1,1,Storytel Original,2016-11-15,1.1462248000000002
+9789177357704,9789177357698,Vespers vidunderliga äventyr - Del 2,Ida Kjellin,1,2,Storytel Original,2016-11-15,1.0780234
+9789177357711,9789177357698,Vespers vidunderliga äventyr - Del 3,Ida Kjellin,1,3,Storytel Original,2016-11-15,1.2987619000000001
+9789177357728,9789177357698,Vespers vidunderliga äventyr - Del 4,Ida Kjellin,1,4,Storytel Original,2016-11-15,1.1099571000000001
+9789177357735,9789177357698,Vespers vidunderliga äventyr - Del 5,Ida Kjellin,1,5,Storytel Original,2016-11-15,1.0502661
+9789177357742,9789177357698,Vespers vidunderliga äventyr - Del 6,Ida Kjellin,1,6,Storytel Original,2016-11-15,1.0333635
+9789177357759,9789177357698,Vespers vidunderliga äventyr - Del 7,Ida Kjellin,1,7,Storytel Original,2016-11-15,1.0217405000000002
+9789177357766,9789177357698,Vespers vidunderliga äventyr - Del 8,Ida Kjellin,1,8,Storytel Original,2016-11-15,1.0408298
+9789177357773,9789177357698,Vespers vidunderliga äventyr - Del 9,Ida Kjellin,1,9,Storytel Original,2016-11-15,0.9920723
+9789177357780,9789177357698,Vespers vidunderliga äventyr - Del 10,Ida Kjellin,1,10,Storytel Original,2016-11-15,1.0635439
+9789179076108,9789179076108,Victoria Bonde - Jakten Del 1,Leffe Grimwalker,1,1,Storytel Original,2020-08-12,0.972983
+9789179076115,9789179076108,Victoria Bonde - Jakten Del 2,Leffe Grimwalker,1,2,Storytel Original,2020-08-12,1.0125997
+9789179076122,9789179076108,Victoria Bonde - Jakten Del 3,Leffe Grimwalker,1,3,Storytel Original,2020-08-12,0.9698113
+9789179076139,9789179076108,Victoria Bonde - Jakten Del 4,Leffe Grimwalker,1,4,Storytel Original,2020-08-12,0.9522389
+9789179076146,9789179076108,Victoria Bonde - Jakten Del 5,Leffe Grimwalker,1,5,Storytel Original,2020-08-12,1.0088567000000002
+9789179076153,9789179076108,Victoria Bonde - Jakten Del 6,Leffe Grimwalker,1,6,Storytel Original,2020-08-12,0.98754130000000007
+9789179076160,9789179076108,Victoria Bonde - Jakten Del 7,Leffe Grimwalker,1,7,Storytel Original,2020-08-12,1.0023163000000002
+9789179076177,9789179076108,Victoria Bonde - Jakten Del 8,Leffe Grimwalker,1,8,Storytel Original,2020-08-12,0.9562971
+9789179076184,9789179076108,Victoria Bonde - Jakten Del 9,Leffe Grimwalker,1,9,Storytel Original,2020-08-12,0.9738892
+9789179076191,9789179076108,Victoria Bonde - Jakten Del 10,Leffe Grimwalker,1,10,Storytel Original,2020-08-12,1.0103539000000001
+9789177358671,9789177358671,Westins bageri & kafé - S1E1,Solja Krapu-Kallio,1,1,Storytel Original,2016-12-01,0.53540660000000007
+9789177358688,9789177358671,Westins bageri & kafé - S1E2,Solja Krapu-Kallio,1,2,Storytel Original,2016-12-02,0.428869
+9789177358695,9789177358671,Westins bageri & kafé - S1E3,Solja Krapu-Kallio,1,3,Storytel Original,2016-12-03,0.4571385
+9789177358701,9789177358671,Westins bageri & kafé - S1E4,Solja Krapu-Kallio,1,4,Storytel Original,2016-12-04,0.45030260000000005
+9789177358718,9789177358671,Westins bageri & kafé - S1E5,Solja Krapu-Kallio,1,5,Storytel Original,2016-12-05,0.42642620000000003
+9789177358725,9789177358671,Westins bageri & kafé - S1E6,Solja Krapu-Kallio,1,6,Storytel Original,2016-12-06,0.5023106
+9789177358732,9789177358671,Westins bageri & kafé - S1E7,Solja Krapu-Kallio,1,7,Storytel Original,2016-12-07,0.47256360000000003
+9789177358749,9789177358671,Westins bageri & kafé - S1E8,Solja Krapu-Kallio,1,8,Storytel Original,2016-12-08,0.4788873
+9789177358756,9789177358671,Westins bageri & kafé - S1E9,Solja Krapu-Kallio,1,9,Storytel Original,2016-12-09,0.4325529
+9789177358763,9789177358671,Westins bageri & kafé - S1E10,Solja Krapu-Kallio,1,10,Storytel Original,2016-12-10,0.43499570000000004
+9789177358770,9789177358671,Westins bageri & kafé - S1E11,Solja Krapu-Kallio,1,11,Storytel Original,2016-12-11,0.41037070000000003
+9789177358787,9789177358671,Westins bageri & kafé - S1E12,Solja Krapu-Kallio,1,12,Storytel Original,2016-12-12,0.4957899
+9789177358794,9789177358671,Westins bageri & kafé - S1E13,Solja Krapu-Kallio,1,13,Storytel Original,2016-12-13,0.4690767
+9789177358800,9789177358671,Westins bageri & kafé - S1E14,Solja Krapu-Kallio,1,14,Storytel Original,2016-12-14,0.4193539
+9789177358817,9789177358671,Westins bageri & kafé - S1E15,Solja Krapu-Kallio,1,15,Storytel Original,2016-12-15,0.45241050000000005
+9789177358824,9789177358671,Westins bageri & kafé - S1E16,Solja Krapu-Kallio,1,16,Storytel Original,2016-12-16,0.4163004
+9789177358831,9789177358671,Westins bageri & kafé - S1E17,Solja Krapu-Kallio,1,17,Storytel Original,2016-12-17,0.40414550000000005
+9789177358848,9789177358671,Westins bageri & kafé - S1E18,Solja Krapu-Kallio,1,18,Storytel Original,2016-12-18,0.4286129
+9789177358855,9789177358671,Westins bageri & kafé - S1E19,Solja Krapu-Kallio,1,19,Storytel Original,2016-12-19,0.3969747
+9789177358862,9789177358671,Westins bageri & kafé - S1E20,Solja Krapu-Kallio,1,20,Storytel Original,2016-12-20,0.3734135
+9789177358879,9789177358671,Westins bageri & kafé - S1E21,Solja Krapu-Kallio,1,21,Storytel Original,2016-12-21,0.43741880000000005
+9789177358886,9789177358671,Westins bageri & kafé - S1E22,Solja Krapu-Kallio,1,22,Storytel Original,2016-12-22,0.4028256
+9789177358893,9789177358671,Westins bageri & kafé - S1E23,Solja Krapu-Kallio,1,23,Storytel Original,2016-12-23,0.46163010000000004
+9789177358909,9789177358671,Westins bageri & kafé - S1E24,Solja Krapu-Kallio,1,24,Storytel Original,2016-12-24,0.4698647
+9789178014415,9789178014415,Westins bageri & kafé - S2E1,Solja Krapu-Kallio,2,1,Storytel Original,2017-10-03,1.0473702
+9789178014422,9789178014415,Westins bageri & kafe - S2E2,Solja Krapu-Kallio,2,2,Storytel Original,2017-10-03,1.0185294
+9789178014439,9789178014415,Westins bageri & kafé - S2E3,Solja Krapu-Kallio,2,3,Storytel Original,2017-10-03,1.0455775
+9789178014446,9789178014415,Westins bageri & kafé - S2E4,Solja Krapu-Kallio,2,4,Storytel Original,2017-10-03,1.0342894
+9789178014453,9789178014415,Westins bageri & kafé - S2E5,Solja Krapu-Kallio,2,5,Storytel Original,2017-10-03,1.0723892000000002
+9789178014460,9789178014415,Westins bageri & kafé - S2E6,Solja Krapu-Kallio,2,6,Storytel Original,2017-10-03,1.0116147
+9789178014477,9789178014415,Westins bageri & kafé - S2E7,Solja Krapu-Kallio,2,7,Storytel Original,2017-10-03,1.014353
+9789178014484,9789178014415,Westins bageri & kafé - S2E8,Solja Krapu-Kallio,2,8,Storytel Original,2017-10-03,1.0164215
+9789178014491,9789178014415,Westins bageri & kafé - S2E9,Solja Krapu-Kallio,2,9,Storytel Original,2017-10-03,0.95537120000000009
+9789178014507,9789178014415,Westins bageri & kafé - S2E10,Solja Krapu-Kallio,2,10,Storytel Original,2017-10-03,1.0070837000000001
+9789178076093,9789178076093,Westins bageri & kafé - S3E1,Solja Krapu-Kallio,3,1,Storytel Original,2018-04-17,0.9867139
+9789178076109,9789178076093,Westins bageri & kafé - S3E2,Solja Krapu-Kallio,3,2,Storytel Original,2018-04-17,0.9354939000000001
+9789178076116,9789178076093,Westins bageri & kafé - S3E3,Solja Krapu-Kallio,3,3,Storytel Original,2018-04-17,0.91959600000000008
+9789178076123,9789178076093,Westins bageri & kafé - S3E4,Solja Krapu-Kallio,3,4,Storytel Original,2018-04-17,0.8240707
+9789178076130,9789178076093,Westins bageri & kafé - S3E5,Solja Krapu-Kallio,3,5,Storytel Original,2018-04-17,0.9107507
+9789178076147,9789178076093,Westins bageri & kafé - S3E6,Solja Krapu-Kallio,3,6,Storytel Original,2018-04-17,0.91157810000000006
+9789178076154,9789178076093,Westins bageri & kafé - S3E7,Solja Krapu-Kallio,3,7,Storytel Original,2018-04-17,1.0025133000000002
+9789178076161,9789178076093,Westins bageri & kafé - S3E8,Solja Krapu-Kallio,3,8,Storytel Original,2018-04-17,0.94378760000000006
+9789178076178,9789178076093,Westins bageri & kafé - S3E9,Solja Krapu-Kallio,3,9,Storytel Original,2018-04-17,1.0630711000000002
+9789178076185,9789178076093,Westins bageri & kafé - S3E10,Solja Krapu-Kallio,3,10,Storytel Original,2018-04-17,0.91900500000000007
+9789178606863,9789178606863,Westins bageri & kafé - S4E1,Solja Krapu-Kallio,4,1,Storytel Original,2019-01-29,0.9579322
+9789178606870,9789178606863,Westins bageri & kafé - S4E2,Solja Krapu-Kallio,4,2,Storytel Original,2019-01-29,0.91226760000000007
+9789178606887,9789178606863,Westins bageri & kafé - S4E3,Solja Krapu-Kallio,4,3,Storytel Original,2019-01-29,0.9512736
+9789178606894,9789178606863,Westins bageri & kafé - S4E4,Solja Krapu-Kallio,4,4,Storytel Original,2019-01-29,0.9203052
+9789178606900,9789178606863,Westins bageri & kafé - S4E5,Solja Krapu-Kallio,4,5,Storytel Original,2019-01-29,0.9472745
+9789178606917,9789178606863,Westins bageri & kafé - S4E6,Solja Krapu-Kallio,4,6,Storytel Original,2019-01-29,0.9052544
+9789178606924,9789178606863,Westins bageri & kafé - S4E7,Solja Krapu-Kallio,4,7,Storytel Original,2019-01-29,1.022627
+9789178606931,9789178606863,Westins bageri & kafé - S4E8,Solja Krapu-Kallio,4,8,Storytel Original,2019-01-29,0.8568712
+9789178606948,9789178606863,Westins bageri & kafé - S4E9,Solja Krapu-Kallio,4,9,Storytel Original,2019-01-29,0.98892030000000009
+9789178606955,9789178606863,Westins bageri & kafé - S4E10,Solja Krapu-Kallio,4,10,Storytel Original,2019-01-29,1.1094843
+9789178699599,9789178699599,Änkornas begravningsbyrå - Del 1,Johanna Nilsson,1,1,Storytel Original,2020-07-16,1.0862777000000001
+9789178699605,9789178699599,Änkornas begravningsbyrå - Del 2,Johanna Nilsson,1,2,Storytel Original,2020-07-16,0.95830650000000006
+9789178699612,9789178699599,Änkornas begravningsbyrå - Del 3,Johanna Nilsson,1,3,Storytel Original,2020-07-16,0.8357331
+9789178699629,9789178699599,Änkornas begravningsbyrå - Del 4,Johanna Nilsson,1,4,Storytel Original,2020-07-16,0.8999945
+9789178699636,9789178699599,Änkornas begravningsbyrå - Del 5,Johanna Nilsson,1,5,Storytel Original,2020-07-16,0.9386459
+9789178699643,9789178699599,Änkornas begravningsbyrå - Del 6,Johanna Nilsson,1,6,Storytel Original,2020-07-16,0.98234050000000006
+9789178699650,9789178699599,Änkornas begravningsbyrå - Del 7,Johanna Nilsson,1,7,Storytel Original,2020-07-16,0.88847000000000009
+9789178699667,9789178699599,Änkornas begravningsbyrå - Del 8,Johanna Nilsson,1,8,Storytel Original,2020-07-16,0.95141150000000008
+9789178699674,9789178699599,Änkornas begravningsbyrå - Del 9,Johanna Nilsson,1,9,Storytel Original,2020-07-16,1.0818058000000002
+9789178699681,9789178699599,Änkornas begravningsbyrå - Del 10,Johanna Nilsson,1,10,Storytel Original,2020-07-16,0.9447529
+9789177615026,9789177615026,Önskebrunnen - S1E1,"Felicia Welander, Peo Bengtsson",1,1,Storytel Original,2017-09-19,1.1203784
+9789177615033,9789177615026,Önskebrunnen - S1E2,"Felicia Welander, Peo Bengtsson",1,2,Storytel Original,2017-09-19,1.1671659
+9789177615040,9789177615026,Önskebrunnen - S1E3,"Felicia Welander, Peo Bengtsson",1,3,Storytel Original,2017-09-19,0.9432951
+9789177615057,9789177615026,Önskebrunnen - S1E4,"Felicia Welander, Peo Bengtsson",1,4,Storytel Original,2017-09-19,1.090395
+9789177615064,9789177615026,Önskebrunnen - S1E5,"Felicia Welander, Peo Bengtsson",1,5,Storytel Original,2017-09-19,0.8093154
+9789177615071,9789177615026,Önskebrunnen - S1E6,"Felicia Welander, Peo Bengtsson",1,6,Storytel Original,2017-09-19,0.95363760000000009
+9789177615088,9789177615026,Önskebrunnen - S1E7,"Felicia Welander, Peo Bengtsson",1,7,Storytel Original,2017-09-19,0.8329554
+9789177615095,9789177615026,Önskebrunnen - S1E8,"Felicia Welander, Peo Bengtsson",1,8,Storytel Original,2017-09-19,0.9357697
+9789177615101,9789177615026,Önskebrunnen - S1E9,"Felicia Welander, Peo Bengtsson",1,9,Storytel Original,2017-09-19,0.8566742
+9789177615118,9789177615026,Önskebrunnen - S1E10,"Felicia Welander, Peo Bengtsson",1,10,Storytel Original,2017-09-19,1.0291674
