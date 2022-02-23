@@ -1,6 +1,6 @@
 # Supplementary Materials for the article "Quotation and Narration in Contemporary Popular Fiction in Swedish – Stylometric Explorations"
 
-**Mats Dahllöf, Uppsala University, 2022-02-15 (expect updates)**
+**Mats Dahllöf, Uppsala University, 2022-02-23**
 
 `documentation.pdf`: Some further documentation on these Supplementary Materials.
 
